@@ -614,5 +614,23 @@
       {"title": "SBJITMR Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"},
       {"title": "Official SBJITMR Admissions Guide", "url": "https://www.sbjit.edu.in/admission/"}
     ]
+  },
+  {
+    "id": "programs_and_intake",
+    "questions": [
+      "What are the programs and intake at SBJITMR?",
+      "What is the intake of each department?",
+      "Intake data",
+      "Update intake data",
+      "What is the intake of SBJITMR?",
+      "Undergraduate Programs (B.Tech - 4 Years) intake",
+      "How many seats are available in each course?",
+      "Seat matrix and intake"
+    ],
+    "answer": "### Academic Departments & Approved Intake at SBJITMR\n\n#### Undergraduate Programs (B.Tech - 4 Years):\n- **Computer Science & Engineering (CSE)** (Intake: 180)\n- **CSE (Artificial Intelligence & Machine Learning)** (Intake: 60/120)\n- **CSE (Data Science)** (Intake: 60)\n- **Electrical Engineering** (Intake: 60)\n- **Electronics & Telecommunication Engineering** (Intake: 60)\n- **Mechanical Engineering** (Intake: 60)\n- **Direct Second Year B.Tech (Lateral Entry)** for Diploma holders\n\n#### Undergraduate Applied & Management Programs:\n- **Bachelor of Computer Application (BCA)** (3 Years)\n- **Bachelor of Business Administration (BBA)** (3 Years)\n\n#### Postgraduate Programs:\n- **Master of Business Administration (MBA)** (2 Years, Intake: 120)\n- **Master of Computer Application (MCA)** (2 Years)\n- **M.Tech in Computer Science & Engineering** (2 Years)\n- **M.Tech in Electronics / VLSI** (2 Years)\n\n(Official sources: SBJITMR Programs Guide — https://www.sbjit.edu.in/programs/ ; Official Admissions — https://www.sbjit.edu.in/admission/)",
+    "sources": [
+      {"title": "Official SBJITMR Programs Guide", "url": "https://www.sbjit.edu.in/programs/"},
+      {"title": "Official SBJITMR Admissions Guide", "url": "https://www.sbjit.edu.in/admission/"}
+    ]
   }
 ]

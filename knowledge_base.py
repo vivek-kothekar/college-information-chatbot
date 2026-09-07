@@ -486,8 +486,8 @@ class KnowledgeBase:
             sources.append({"title": "Official SBJITMR MBA Department", "url": dept.get("url", "https://www.sbjit.edu.in/mba/")})
             return f"### Head of Department - Management Studies (MBA)\n\n**Name:** {hod.get('name')}\n**Designation:** {hod.get('designation')}\n**Email:** {hod.get('email')}\n**Source:** [Official SBJITMR MBA]({dept.get('url')})", sources
 
-        # Departments available / Courses offered
-        if any(w in q for w in ["what departments", "departments available", "list of departments", "what courses", "courses are offered", "courses offered", "programs offered"]):
+        # Departments available / Courses offered / Intake data
+        if any(w in q for w in ["what departments", "departments available", "list of departments", "what courses", "courses are offered", "courses offered", "programs offered", "intake", "seat intake", "seats available", "seat matrix", "seats in"]):
             depts = self.data.get("departments", {})
             sources.append({"title": "Official SBJITMR Degree Programs", "url": "https://www.sbjit.edu.in/programs/"})
             ans = (
