@@ -192,7 +192,8 @@ document.addEventListener("DOMContentLoaded", () => {
     // Helper for fetch with 1 auto-retry on 502/503/network error
     async function executeChatRequest(isRetry = false) {
       try {
-        const response = await fetch("/api/chat", {
+        const chatUrl = (window.location.origin || "") + "/api/chat";
+        const response = await fetch(chatUrl, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ message: text, session_id: sessionId })
