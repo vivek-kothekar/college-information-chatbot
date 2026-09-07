@@ -1,6 +1,22 @@
 # 🎓 SBJITMR AI Assistant & Chatbot
 
+[![Live Demo](https://img.shields.io/badge/Render-Live_Demo-00C7B7?style=for-the-badge&logo=render&logoColor=white)](https://college-information-chatbot-x3zt.onrender.com/)
+[![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-3.0-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://aistudio.google.com/)
+
 > An intelligent, anti-hallucination conversational AI assistant for **S. B. Jain Institute of Technology, Management & Research (SBJITMR), Nagpur** (Autonomous, DTE Code: 4197, Affiliated to RTMNU, NAAC 'A' Grade).
+
+---
+
+## 🌐 Live Web Application
+
+The chatbot is deployed and publicly accessible online:
+
+🔗 **Live Portal:** **[https://college-information-chatbot-x3zt.onrender.com/](https://college-information-chatbot-x3zt.onrender.com/)**
+
+- **Health Status:** [https://college-information-chatbot-x3zt.onrender.com/api/health](https://college-information-chatbot-x3zt.onrender.com/api/health)
+- **Deployment Platform:** Render Cloud (Free Web Service + Gunicorn WSGI)
 
 ---
 
@@ -32,11 +48,12 @@ The **SBJITMR AI Chatbot** delivers instant, authoritative answers regarding adm
 
 ## 🛠️ Tech Stack
 
-- **Backend:** Python 3.10+, Flask 3.0+
+- **Backend:** Python 3.10+, Flask 3.0+, Gunicorn 21.2+
 - **LLM Integration:** Google GenAI SDK (`google-genai`), `gemini-2.5-flash`
 - **Knowledge Base:** 17 in-memory JSON data structures
 - **Frontend:** Semantic HTML5, Modern CSS3 (Glassmorphism & responsive layouts), Vanilla JavaScript
-- **Testing:** Python `unittest`
+- **Testing:** Python `unittest` (49 passing test cases)
+- **Deployment:** Render PaaS, Git & GitHub CI/CD
 
 ---
 
@@ -47,7 +64,8 @@ The **SBJITMR AI Chatbot** delivers instant, authoritative answers regarding adm
 ├── gemini_service.py       # Dual-layer orchestrator: KB retriever + Gemini grounding fallback
 ├── knowledge_base.py       # In-memory KB manager, fuzzy matching, and rule-based query router
 ├── test_chatbot.py         # Complete automated test suite (49 test cases)
-├── requirements.txt        # Python package dependencies
+├── requirements.txt        # Python package dependencies (Flask, google-genai, gunicorn, etc.)
+├── render.yaml             # Render deployment configuration blueprint
 ├── .env.example            # Environment template for API keys
 ├── .gitignore              # Git ignore rules protecting secrets & build artifacts
 ├── data/                   # 17 structured ground-truth JSON files
@@ -69,21 +87,20 @@ The **SBJITMR AI Chatbot** delivers instant, authoritative answers regarding adm
 │   ├── sources.json
 │   └── student_activities.json
 ├── static/                 # Static frontend assets
-│   ├── css/style.css       # Clean, modern, responsive styling
-│   ├── js/chat.js          # Chat client logic, streaming, UI updates
-│   └── images/             # Institutional logos & icons
+│   ├── style.css           # Clean, modern, glassmorphic styling
+│   └── script.js           # Chat client logic, streaming, UI updates
 └── templates/              # HTML templates
     └── index.html          # Main chat interface
 ```
 
 ---
 
-## ⚡ Quick Start
+## ⚡ Quick Start (Local Setup)
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/sbjitmr-ai-chatbot.git
-cd sbjitmr-ai-chatbot
+git clone https://github.com/vivek-kothekar/college-information-chatbot.git
+cd college-information-chatbot
 ```
 
 ### 2. Create and Activate a Virtual Environment
@@ -114,9 +131,9 @@ Edit `.env` and add your Google Gemini API key:
 GEMINI_API_KEY=your_actual_gemini_api_key_here
 PORT=5000
 ```
-> 🔑 **Get an API key:** Visit [Google AI Studio](https://aistudio.google.com/app/apikey) to generate a free API key.
+> 🔑 **Get an API key:** Visit [Google AI Studio](https://aistudio.google.com/app/apikey) to generate an API key.
 
-### 5. Run the Server
+### 5. Run the Server Locally
 ```bash
 python app.py
 ```
@@ -127,16 +144,16 @@ http://127.0.0.1:5000
 
 ---
 
-## 🧪 Running Tests
+## 🧪 Running Automated Tests
 
-To run the full automated test suite (49 tests):
+To execute the full automated test suite (49 unit tests):
 ```bash
 python test_chatbot.py
 ```
 
 Expected output:
 ```text
-Ran 49 tests in ~1.5s
+Ran 49 tests in 62.602s
 OK
 ```
 
@@ -150,9 +167,9 @@ OK
 | `POST` | `/api/chat` | Send question and receive verified JSON response |
 | `GET` | `/api/health` | Health check (KB file count, API status) |
 
-### Sample Chat Request:
+### Test the Live API with cURL:
 ```bash
-curl -X POST http://127.0.0.1:5000/api/chat \
+curl -X POST https://college-information-chatbot-x3zt.onrender.com/api/chat \
   -H "Content-Type: application/json" \
   -d '{"message": "Can a student take admission in direct second year if they did a diploma?"}'
 ```
