@@ -1,0 +1,91 @@
+{
+  "student_affairs_cell": {
+    "name": "Office of Dean Students Affairs",
+    "dean": "Dr. Yogesh P. Shinde",
+    "email": "deanstudentsaffairs@sbjit.edu.in",
+    "phone": "+91 8999300998 / +91 9923280550",
+    "role": "Nodal center for promoting student camaraderie, overall personality growth, extracurricular initiatives, talent discovery, and maintaining collegiate discipline.",
+    "source": "https://www.sbjit.edu.in/student-affairs/",
+    "last_verified": "2026-09-07"
+  },
+  "nss_national_service_scheme": {
+    "name": "National Service Scheme (NSS) Cell",
+    "overview": "Affiliated with RTMNU and the Ministry of Youth Affairs and Sports, the NSS unit instills social civic responsibility, empathy, and volunteerism.",
+    "major_activities": [
+      "Annual 7-day Special Rural Residential Camp in nearby adopted villages",
+      "Mega Blood Donation Camps in collaboration with recognized blood banks",
+      "Tree Plantation drives (Van Mahotsav) on campus and local areas",
+      "Swachh Bharat Abhiyan cleanliness drives and plastic-free campus campaigns",
+      "Health hygiene awareness, pulse polio, and traffic safety awareness rallies"
+    ],
+    "source": "https://www.sbjit.edu.in/national-service-scheme-cell-nss/",
+    "last_verified": "2026-09-07"
+  },
+  "ncc_national_cadet_corps": {
+    "name": "NCC Activities",
+    "overview": "Encourages students to cultivate military discipline, national service ethos, physical fitness, and leadership training, preparing students for Armed Forces careers.",
+    "source": "https://www.sbjit.edu.in/student-affairs/",
+    "last_verified": "2026-09-07"
+  },
+  "sports_cell": {
+    "name": "Institute Sports Cell",
+    "coordinator": "Mr. Ajay Joshi (Coordinator)",
+    "committee_members": [
+      "Mr. Ajay Joshi (Coordinator)",
+      "Mr. Nilesh Zalke",
+      "Mr. Mohd. Waseem Akram",
+      "Mr. Akshay Deshmukh",
+      "Ms. Komal Kelwade",
+      "Mr. Mayur Kadu",
+      "Mr. Nikhil Sakhare",
+      "Dr. Mayuri Kalyankar"
+    ],
+    "activities": [
+      "Annual Inter-Departmental Sports Meet (Cricket, Football, Volleyball, Badminton, Table Tennis, Chess, Athletics)",
+      "Participation in RTMNU Inter-Collegiate University Tournaments",
+      "State and national sports representation",
+      "Sports Incentive Marks Policy as per RTMNU and Autonomous guidelines"
+    ],
+    "source": "https://www.sbjit.edu.in/sports/",
+    "last_verified": "2026-09-07"
+  },
+  "technical_clubs_and_forums": [
+    {
+      "name": "ACES (Association of Computer Engineering Students)",
+      "department": "Computer Science & Engineering",
+      "activities": "Coding competitions, web development hackathons, technical paper presentations, and guest lectures."
+    },
+    {
+      "name": "MESA (Mechanical Engineering Students Association)",
+      "department": "Mechanical Engineering",
+      "activities": "CAD modeling contests, robotics workshops, industrial visits, and national vehicle design challenges."
+    },
+    {
+      "name": "ELESA (Electrical Engineering Students Association)",
+      "department": "Electrical Engineering",
+      "activities": "Circuit design competitions, renewable energy model exhibits, and electrical safety workshops."
+    },
+    {
+      "name": "IEEE Student Branch & IEEE PES (Power & Energy Society)",
+      "department": "Interdisciplinary",
+      "activities": "International webinars, technical paper symposiums, and research seminars (awarded Best PES Day Activity Award)."
+    },
+    {
+      "name": "Robotics & Innovation Club",
+      "department": "Interdisciplinary",
+      "activities": "Autonomous bot fabrication, IoT workshops, line follower robot races, and drone building."
+    }
+  ],
+  "cultural_and_annual_festivals": {
+    "technotsav": "Annual National Level Technical Festival featuring coding marathons, robotics combat, paper presentations, and project exhibitions.",
+    "manthan": "Annual Cultural Extravaganza and college magazine showcasing music, dance, theatrical drama, fashion show, literary arts, and student creative writing.",
+    "source": "https://www.sbjit.edu.in/student-affairs/",
+    "last_verified": "2026-09-07"
+  },
+  "alumni_association": {
+    "name": "SBJITMR Alumni Cell",
+    "role": "Organizes annual alumni reunions, alumni mentorship talks, mock interviews, and student career guidance sessions.",
+    "source": "https://www.sbjit.edu.in/student-affairs/",
+    "last_verified": "2026-09-07"
+  }
+}

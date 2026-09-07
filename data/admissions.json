@@ -1,0 +1,102 @@
+{
+  "institute_code": {
+    "dte_code": "4197",
+    "status": "Autonomous Institute (Un-aided Religious Minority - Jain)",
+    "source": "https://www.sbjit.edu.in/admission/",
+    "last_verified": "2026-09-07"
+  },
+  "programs": {
+    "b_tech_first_year": {
+      "course_name": "Bachelor of Technology (B.Tech) - First Year",
+      "duration": "4 Years (8 Semesters)",
+      "branches": [
+        "Computer Science & Engineering (Intake: 180)",
+        "CSE - Artificial Intelligence & Machine Learning (Intake: 60/120)",
+        "CSE - Data Science (Intake: 60)",
+        "Electrical Engineering (Intake: 60)",
+        "Electronics & Telecommunication Engineering (Intake: 60)",
+        "Mechanical Engineering (Intake: 60)"
+      ],
+      "eligibility": "Passed 10+2 / HSC Examination with Physics and Mathematics as compulsory subjects along with one of Chemistry/Biotechnology/Biology/Technical Vocational subject/Computer Science/IT, securing at least 45% marks (40% for backward class categories, EWS, and PwD candidates of Maharashtra State). Valid non-zero score in MHT-CET (Maharashtra) or JEE (Main) Paper I.",
+      "admission_process": "Admissions are conducted through the Centralized Admission Process (CAP) rounds administered by the State Common Entrance Test Cell, Government of Maharashtra (cetcell.mahacet.org). Institutional Level seats and seats vacant after CAP rounds are filled as per State CET Cell guidelines.",
+      "source": "https://www.sbjit.edu.in/admission/",
+      "last_verified": "2026-09-07"
+    },
+    "b_tech_direct_second_year": {
+      "course_name": "Direct Second Year B.Tech (Lateral Entry)",
+      "duration": "3 Years (6 Semesters)",
+      "eligibility": "Passed Diploma in Engineering and Technology with at least 45% marks (40% for reserved categories of Maharashtra) OR Passed B.Sc. Degree from a recognized university with at least 45% marks and Mathematics at 10+2 level.",
+      "admission_process": "Through Centralized Admission Process (CAP) conducted by Maharashtra State CET Cell.",
+      "source": "https://www.sbjit.edu.in/programs/",
+      "last_verified": "2026-09-07"
+    },
+    "mba": {
+      "course_name": "Master of Business Administration (MBA)",
+      "duration": "2 Years (4 Semesters)",
+      "intake": 120,
+      "specializations": ["Marketing", "Finance", "Human Resource Management", "Operations & Supply Chain", "Business Analytics"],
+      "eligibility": "Passed minimum 3-year Bachelor's Degree in any discipline with at least 50% marks (45% for reserved category candidates of Maharashtra) and a valid non-zero score in MAH-MBA-CET, CAT, CMAT, MAT, XAT, or ATMA.",
+      "admission_process": "Through CAP rounds conducted by State CET Cell Maharashtra, and Institute Level Quota.",
+      "source": "https://www.sbjit.edu.in/mba/",
+      "last_verified": "2026-09-07"
+    },
+    "bca_and_bba": {
+      "course_name": "Bachelor of Computer Application (BCA) & Bachelor of Business Administration (BBA)",
+      "duration": "3 Years (6 Semesters)",
+      "eligibility": "Passed 10+2 / HSC from a recognized board with minimum required percentage and valid score in MAH-B.BCA/BBA/BMS/BBM-CET conducted by State CET Cell.",
+      "admission_process": "Through State CET Cell CAP registration and institute reporting.",
+      "source": "https://www.sbjit.edu.in/programs/",
+      "last_verified": "2026-09-07"
+    },
+    "mca": {
+      "course_name": "Master of Computer Application (MCA)",
+      "duration": "2 Years (4 Semesters)",
+      "eligibility": "Passed BCA or Bachelor Degree in Computer Science Engineering or equivalent, or passed B.Sc./B.Com./B.A. with Mathematics at 10+2 or graduation level with at least 50% marks (45% for reserved category). Valid score in MAH-MCA-CET.",
+      "admission_process": "Through Maharashtra State CET Cell CAP rounds.",
+      "source": "https://www.sbjit.edu.in/programs/",
+      "last_verified": "2026-09-07"
+    },
+    "m_tech": {
+      "course_name": "Master of Technology (M.Tech)",
+      "duration": "2 Years (4 Semesters)",
+      "branches": ["M.Tech in Computer Science & Engineering", "M.Tech in Electronics / VLSI"],
+      "eligibility": "Passed Bachelor's Degree in relevant field of Engineering and Technology from AICTE approved institution with at least 50% marks (45% for reserved category) with valid GATE score or sponsored candidate criteria.",
+      "admission_process": "Through DTE/State CET Cell CAP counseling rounds.",
+      "source": "https://www.sbjit.edu.in/programs/",
+      "last_verified": "2026-09-07"
+    }
+  },
+  "required_documents": [
+    "CAP Allotment Letter & Seat Acceptance Confirmation",
+    "MHT-CET / JEE Main / MAH-CET Score Card",
+    "SSC (10th) Marksheet & Passing Certificate",
+    "HSC (12th) Marksheet & Passing Certificate",
+    "Diploma / Graduation Marksheets (for DSE / PG candidates)",
+    "College Leaving / Transfer Certificate (TC)",
+    "Migration Certificate (if applicable for other than Maharashtra State Board/University)",
+    "Nationality Certificate and Domicile Certificate of Maharashtra",
+    "Caste Certificate (for SC/ST/VJ/NT/SBC/OBC)",
+    "Caste Validity Certificate (Mandatory for reserved categories)",
+    "Non-Creamy Layer Certificate valid up to 31st March of current financial year (for OBC/VJNT/SBC)",
+    "Income Certificate issued by competent authority (Tahsildar)",
+    "EWS Eligibility Certificate (if applying under EWS quota)",
+    "Minority Affidavit / Certificate (for Religious Minority candidates - Jain)",
+    "Passport size recent color photographs (5 copies)",
+    "Aadhaar Card copy & Bank Account details (linked with Aadhaar)"
+  ],
+  "admission_helpline": {
+    "incharge": "Dr. Yogesh Shinde (Incharge Admission)",
+    "phone_numbers": [
+      "+91-8999300998 (Dr. Yogesh Shinde)",
+      "+91-9923280550 (Dr. Yogesh Shinde)",
+      "+91-9923146219 (Mr. Vinod Suple)",
+      "+91-9975755601 (Mr. Sarvesh Biyani)"
+    ],
+    "whatsapp": "+91-8999300998",
+    "email": "admission@sbjit.edu.in",
+    "verification_enquiry": "Mr. Nilesh Gaulkar (+91-9764508160)",
+    "office_location": "Admission Cell, Ground Floor, SBJITMR Campus, Near Jain International School, Yerla, Kalmeshwar Road, Nagpur - 441501",
+    "source": "https://www.sbjit.edu.in/admissionhelpline/",
+    "last_verified": "2026-09-07"
+  }
+}

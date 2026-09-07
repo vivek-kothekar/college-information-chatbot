@@ -1,0 +1,80 @@
+{
+  "central_library": {
+    "name": "S. B. Jain Central Library",
+    "description": "A fully computerized, state-of-the-art knowledge repository featuring open access, spacious general and individual reading halls, rare reference books, e-books, CD/DVD multimedia resources, national and international print journals, and e-journals from renowned publishers.",
+    "automation_and_features": [
+      "Automated with advanced Library Management Software and Laser Bar-code Scanners for instant issue/return.",
+      "Web OPAC (Online Public Access Catalog) enabling students and faculty to search cataloged holdings from anywhere on the campus network.",
+      "SMS alert facility for book due dates and re-issue notifications.",
+      "Comprehensive Book Bank Facility providing a complete set of semester textbooks to all enrolled students.",
+      "NPTEL (National Programme on Technology Enhanced Learning) video streaming local server giving direct access to IIT and IISc video lectures.",
+      "Digital Library with access to J-Gate, Map My Access, e-journals, and DELNET resources."
+    ],
+    "staff": [
+      {
+        "name": "Mr. Prashant Wankhede",
+        "designation": "Librarian",
+        "qualification": "B.Lib., M.Lib."
+      },
+      {
+        "name": "Mr. Vilinkumar Shende",
+        "designation": "Assistant Librarian",
+        "qualification": "B.Lib."
+      },
+      {
+        "name": "Mrs. Vandana Gaikwad",
+        "designation": "Library Assistant",
+        "qualification": "B.A., B.Lib."
+      }
+    ],
+    "source": "https://www.sbjit.edu.in/s-b-jain-library/",
+    "last_verified": "2026-09-07"
+  },
+  "transportation": {
+    "name": "College Bus Transportation Fleet",
+    "details": "SBJITMR operates a dedicated fleet of 20 college buses connecting all key localities across Nagpur city, Kamptee, and Saoner, ensuring safe, punctual transit for students and faculty.",
+    "timings": "Arrives at campus by 10:00 AM; departs from campus at 5:30 PM.",
+    "safety_and_compliance": "All 20 buses possess valid RTO Fitness, Permits, Insurance, PUC, and Tax certificates. Buses are fitted with RTO-compliant Electronic Speed Governors, GPRS vehicle tracking systems, First Aid kits, Fire Extinguishers, and designated Emergency Exit Doors.",
+    "public_transit_connectivity": "Regular MSRTC (State Transport) buses also frequently ply on the Kalmeshwar Road directly stopping near the college campus.",
+    "emergency_vehicle": "A dedicated emergency vehicle is stationed on campus 24 hours a day to handle any urgent medical or situational contingencies.",
+    "source": "https://www.sbjit.edu.in/transportation/",
+    "last_verified": "2026-09-07"
+  },
+  "laboratories_and_workshops": {
+    "overview": "Each department possesses well-equipped, modern laboratories adhering to AICTE norms, including GPU-enabled AI labs, VLSI design tools, CNC machines, electrical drives, and advanced material testing equipment.",
+    "source": "https://www.sbjit.edu.in/departments/",
+    "last_verified": "2026-09-07"
+  },
+  "it_infrastructure_and_wifi": {
+    "overview": "High-speed campus-wide fiber optic backbone, high-bandwidth leased lines, Wi-Fi connectivity across academic blocks, smart classrooms equipped with multimedia projectors, and modern client-server network architecture.",
+    "source": "https://www.sbjit.edu.in/it-infrastructure/",
+    "last_verified": "2026-09-07"
+  },
+  "sports_and_gymnasium": {
+    "gymnasium": "Modern campus gymnasium equipped with weight-training stations, treadmills, and fitness equipment.",
+    "outdoor_sports": "Full-sized playground for Cricket, Football, Volleyball, Basketball, and Kabaddi.",
+    "indoor_sports": "Facilities for Table Tennis, Badminton, Chess, and Carrom.",
+    "source": "https://www.sbjit.edu.in/gymnasium/",
+    "last_verified": "2026-09-07"
+  },
+  "power_backup": {
+    "details": "100% heavy-duty silent diesel generator (DG) power backup ensures uninterrupted operation of computer laboratories, server rooms, smart classrooms, and library lighting during utility power outages.",
+    "source": "https://www.sbjit.edu.in/power-backup/",
+    "last_verified": "2026-09-07"
+  },
+  "counselling_facility": {
+    "details": "A designated Counselling Cell provides confidential psychological counseling, emotional well-being mentorship, and stress management support to students.",
+    "source": "https://www.sbjit.edu.in/counselling-facility/",
+    "last_verified": "2026-09-07"
+  },
+  "canteen_and_cafeteria": {
+    "details": "Spacious, hygienic cafeteria serving wholesome vegetarian meals, hot snacks, tea, coffee, and refreshments prepared under strict sanitary standards.",
+    "source": "https://www.sbjit.edu.in/campus-life/",
+    "last_verified": "2026-09-07"
+  },
+  "hostels_and_accommodation": {
+    "details": "The institute assists outstation students in securing comfortable, secure boys' and girls' hostel accommodations with verified private partners situated conveniently in nearby residential areas with bus pickup connectivity.",
+    "source": "https://www.sbjit.edu.in/contact-us/",
+    "last_verified": "2026-09-07"
+  }
+}

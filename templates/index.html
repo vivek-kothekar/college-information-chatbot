@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SBJITMR AI Assistant | S. B. Jain Institute of Technology, Management & Research</title>
+  <meta name="description" content="Official AI Assistant for S. B. Jain Institute of Technology, Management & Research (SBJITMR), Nagpur. Get verified information on admissions, departments, faculty, examinations, fees, and placements.">
+  
+  <!-- Modern Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  
+  <!-- Font Awesome for sleek icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="app-container" id="appContainer">
+    
+    <!-- Header -->
+    <header class="app-header" id="appHeader">
+      <div class="header-left">
+        <div class="brand-logo" id="brandLogo">
+          <div class="logo-shield">
+            <i class="fa-solid fa-graduation-cap"></i>
+          </div>
+        </div>
+        <div class="brand-info">
+          <h1 class="brand-title" id="brandTitle">SBJITMR AI Assistant</h1>
+          <p class="brand-subtitle" id="brandSubtitle">
+            S. B. Jain Institute of Technology, Management & Research, Nagpur
+            <span class="status-badge" id="statusBadge"><span class="pulse-dot"></span> Autonomous | NAAC 'A' Grade</span>
+          </p>
+        </div>
+      </div>
+      <div class="header-right">
+        <button class="btn-icon" id="clearChatBtn" title="Clear Conversation" aria-label="Clear chat">
+          <i class="fa-solid fa-rotate-right"></i>
+          <span class="btn-text">Clear Chat</span>
+        </button>
+        <a href="https://www.sbjit.edu.in/" target="_blank" rel="noopener noreferrer" class="btn-icon btn-portal" id="officialSiteLink">
+          <i class="fa-solid fa-arrow-up-right-from-square"></i>
+          <span class="btn-text">Official Site</span>
+        </a>
+      </div>
+    </header>
+
+    <!-- Main Chat Workspace -->
+    <main class="chat-workspace" id="chatWorkspace">
+      
+      <!-- Category Quick Filter Chips -->
+      <nav class="category-nav" id="categoryNav" aria-label="Query Categories">
+        <button class="category-chip active" data-category="all" id="catChipAll">
+          <i class="fa-solid fa-compass"></i> All Topics
+        </button>
+        <button class="category-chip" data-category="administration" id="catChipAdmin">
+          <i class="fa-solid fa-user-tie"></i> Administration
+        </button>
+        <button class="category-chip" data-category="admissions" id="catChipAdmission">
+          <i class="fa-solid fa-door-open"></i> Admissions
+        </button>
+        <button class="category-chip" data-category="departments" id="catChipDepts">
+          <i class="fa-solid fa-microchip"></i> Departments
+        </button>
+        <button class="category-chip" data-category="examinations" id="catChipExams">
+          <i class="fa-solid fa-file-signature"></i> Examinations
+        </button>
+        <button class="category-chip" data-category="placements" id="catChipPlacements">
+          <i class="fa-solid fa-briefcase"></i> Placements
+        </button>
+        <button class="category-chip" data-category="student_affairs" id="catChipStudentLife">
+          <i class="fa-solid fa-users"></i> Student Life
+        </button>
+        <button class="category-chip" data-category="facilities" id="catChipFacilities">
+          <i class="fa-solid fa-building-columns"></i> Facilities
+        </button>
+        <button class="category-chip" data-category="contact" id="catChipContact">
+          <i class="fa-solid fa-phone-volume"></i> Contact
+        </button>
+      </nav>
+
+      <!-- Suggested Question Pills -->
+      <section class="suggested-queries" id="suggestedQueries" aria-label="Suggested Questions">
+        <span class="suggested-label"><i class="fa-regular fa-lightbulb"></i> Suggested:</span>
+        <div class="suggested-pills-scroll" id="suggestedPillsScroll">
+          <button class="suggested-pill" data-query="Who is the Principal?">Who is the Principal?</button>
+          <button class="suggested-pill" data-query="Who is the Dean Academics?">Who is the Dean Academics?</button>
+          <button class="suggested-pill" data-query="What is the admission process?">Admission Process & Eligibility</button>
+          <button class="suggested-pill" data-query="What are the fees?">Fee Structure & NEFT Details</button>
+          <button class="suggested-pill" data-query="Tell me about placements.">Placements & Recruiters</button>
+          <button class="suggested-pill" data-query="Who is the CSE HOD?">CSE Department & HOD</button>
+          <button class="suggested-pill" data-query="What scholarships are available?">Scholarships & Concessions</button>
+          <button class="suggested-pill" data-query="Is transport available?">College Bus Transportation</button>
+          <button class="suggested-pill" data-query="Where can I check results?">Exam Cell & Results Portal</button>
+          <button class="suggested-pill" data-query="What is the vision and mission?">Vision & Mission</button>
+        </div>
+      </section>
+
+      <!-- Message History Container -->
+      <div class="chat-history" id="chatHistory" role="log" aria-live="polite">
+        <!-- Welcome Message -->
+        <div class="message-row bot-row" id="welcomeMessageRow">
+          <div class="avatar bot-avatar">
+            <i class="fa-solid fa-robot"></i>
+          </div>
+          <div class="message-content">
+            <div class="message-header">
+              <span class="author-name">SBJITMR Assistant</span>
+              <span class="message-badge">Verified Official Source</span>
+            </div>
+            <div class="message-bubble bot-bubble">
+              <p>Welcome to the <strong>S. B. Jain Institute of Technology, Management & Research (SBJITMR)</strong> AI Assistant!</p>
+              <p>I am your complete, verified college information guide. You can ask me anything about:</p>
+              <ul>
+                <li><strong>Leadership:</strong> Principal, CEO, Deans, Registrar, and HODs</li>
+                <li><strong>Admissions & Programs:</strong> B.Tech, MBA, MCA, BCA, BBA, M.Tech, eligibility, and CAP procedures</li>
+                <li><strong>Fees & Scholarships:</strong> FRA fees, category concessions, NEFT payment details, and MahaDBT benefits</li>
+                <li><strong>Examinations:</strong> Autonomous exam cell, results portal, timetable, and revaluation</li>
+                <li><strong>Placements:</strong> Placement records (12 LPA highest, 4.2 LPA average), top recruiters, and TPO</li>
+                <li><strong>Campus Facilities:</strong> 20 college buses, computerized library, sports grounds, and laboratories</li>
+              </ul>
+              <p>How may I assist you today?</p>
+            </div>
+            <div class="message-time">Just now</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Typing Indicator -->
+      <div class="typing-indicator-row hidden" id="typingIndicatorRow">
+        <div class="avatar bot-avatar">
+          <i class="fa-solid fa-robot"></i>
+        </div>
+        <div class="typing-bubble">
+          <span class="dot"></span>
+          <span class="dot"></span>
+          <span class="dot"></span>
+          <span class="typing-text">Consulting verified records...</span>
+        </div>
+      </div>
+    </main>
+
+    <!-- Chat Input Bar -->
+    <footer class="input-container" id="inputContainer">
+      <form class="chat-form" id="chatForm">
+        <div class="input-wrapper">
+          <textarea 
+            id="chatInput" 
+            placeholder="Ask anything about SBJITMR (e.g. 'Who is the Principal?', 'What are the fees?', 'Who is the Dean Students Affairs?')..." 
+            rows="1" 
+            required
+            aria-label="Your question about SBJITMR"
+          ></textarea>
+          <button type="submit" class="send-btn" id="sendBtn" title="Send message" aria-label="Send message">
+            <i class="fa-solid fa-paper-plane"></i>
+          </button>
+        </div>
+        <div class="input-footer-note">
+          <span><i class="fa-solid fa-shield-halved"></i> Grounded in official SBJITMR records. Zero hallucination policy.</span>
+          <span class="keyboard-tip"><kbd>Enter</kbd> to send, <kbd>Shift + Enter</kbd> for newline</span>
+        </div>
+      </form>
+    </footer>
+
+  </div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>

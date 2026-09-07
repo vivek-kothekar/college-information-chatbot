@@ -1,0 +1,136 @@
+{
+  "general_and_campus": {
+    "institute_name": "S. B. Jain Institute of Technology, Management & Research (SBJITMR)",
+    "campus_address": "Near Jain International School, Yerla Village, Kalmeshwar Road, Nagpur, Maharashtra - 441501, India",
+    "telephone": "+91 712 2667777 / +91 712 6677000",
+    "general_enquiry_email": "info@sbjit.edu.in",
+    "official_website": "https://www.sbjit.edu.in/",
+    "source": "https://www.sbjit.edu.in/contact-us/",
+    "last_verified": "2026-09-07"
+  },
+  "principal_office": {
+    "name": "Prof. (Dr.) Sanjay L. Badjate",
+    "designation": "Principal",
+    "email": "principal@sbjit.edu.in",
+    "phone": "+91 712 2667777",
+    "source": "https://www.sbjit.edu.in/message-from-principal/",
+    "last_verified": "2026-09-07"
+  },
+  "ceo_office": {
+    "name": "Mr. Sanjeev Agrawal",
+    "designation": "Chief Executive Officer (CEO)",
+    "email": "ceo@sbjit.edu.in",
+    "phone": "+91 712 2667777",
+    "source": "https://www.sbjit.edu.in/message-from-ceo/",
+    "last_verified": "2026-09-07"
+  },
+  "admission_office": {
+    "incharge": "Dr. Yogesh Shinde (Incharge Admission)",
+    "helpline_numbers": [
+      "+91-8999300998 (Dr. Yogesh Shinde)",
+      "+91-9923280550 (Dr. Yogesh Shinde)",
+      "+91-9923146219 (Mr. Vinod Suple)",
+      "+91-9975755601 (Mr. Sarvesh Biyani)"
+    ],
+    "whatsapp_number": "+91-8999300998",
+    "email": "admission@sbjit.edu.in",
+    "source": "https://www.sbjit.edu.in/admissionhelpline/",
+    "last_verified": "2026-09-07"
+  },
+  "examination_office": {
+    "controller_of_examinations": "Prof. Pankaj Jaiswal",
+    "email": "coesbjain@sbjit.edu.in",
+    "phone": "+91 712 2667777",
+    "source": "https://www.sbjit.edu.in/exam-cell/",
+    "last_verified": "2026-09-07"
+  },
+  "training_and_placement_office": {
+    "head_tpo": "Mr. Ashish Lawrence",
+    "officer_tpo": "Dr. Amit Tajne",
+    "contact": "+91-9579194601",
+    "email": "tpo@sbjit.edu.in",
+    "source": "https://www.sbjit.edu.in/placements/",
+    "last_verified": "2026-09-07"
+  },
+  "student_affairs_office": {
+    "dean": "Dr. Yogesh P. Shinde",
+    "email": "deanstudentsaffairs@sbjit.edu.in",
+    "phone": "+91 8999300998 / +91 9923280550",
+    "source": "https://www.sbjit.edu.in/student-affairs/",
+    "last_verified": "2026-09-07"
+  },
+  "academics_office": {
+    "dean": "Dr. Pankaj Thote",
+    "email": "deanacademics@sbjit.edu.in",
+    "phone": "+91 712 2667777",
+    "source": "https://www.sbjit.edu.in/message-from-dean-academics/",
+    "last_verified": "2026-09-07"
+  },
+  "library": {
+    "librarian": "Mr. Prashant Wankhede",
+    "email": "info@sbjit.edu.in",
+    "phone": "+91 712 2667777",
+    "source": "https://www.sbjit.edu.in/s-b-jain-library/",
+    "last_verified": "2026-09-07"
+  },
+  "administration_and_verification": {
+    "officer": "Mr. Nilesh Gaulkar (Administration / Student Verification)",
+    "phone": "+91-9764508160",
+    "email": "info@sbjit.edu.in",
+    "source": "https://www.sbjit.edu.in/contact-us/",
+    "last_verified": "2026-09-07"
+  },
+  "bank_dd_online_payment_confirmation": {
+    "contacts": [
+      "+91-9921021167",
+      "+91-7507684984"
+    ],
+    "source": "https://www.sbjit.edu.in/neft-details/",
+    "last_verified": "2026-09-07"
+  },
+  "departments_hod_contacts": {
+    "cse": {
+      "department": "Computer Science & Engineering",
+      "hod": "Dr. Anup Gade",
+      "email": "hodcse@sbjit.edu.in"
+    },
+    "cse_aiml": {
+      "department": "CSE (AI & ML)",
+      "hod": "Dr. Animesh Tayal",
+      "email": "hodaiml@sbjit.edu.in"
+    },
+    "cse_ds": {
+      "department": "CSE (Data Science)",
+      "hod": "Dr. Dipak W. Wajgi",
+      "email": "hodds@sbjit.edu.in"
+    },
+    "electrical": {
+      "department": "Electrical Engineering",
+      "hod": "Dr. Chandrakant Rathore",
+      "email": "hodee@sbjit.edu.in"
+    },
+    "etc": {
+      "department": "Electronics & Telecommunication",
+      "hod": "Dr. Abhay Kasetwar",
+      "email": "hodetc@sbjit.edu.in"
+    },
+    "mechanical": {
+      "department": "Mechanical Engineering",
+      "hod": "Dr. Harish Bhatkulkar",
+      "email": "hodmech@sbjit.edu.in"
+    },
+    "first_year": {
+      "department": "First Year Engineering",
+      "hod": "Mr. Vinod Suple",
+      "email": "hodfye@sbjit.edu.in",
+      "phone": "+91-9923146219"
+    },
+    "mba": {
+      "department": "Master of Business Administration",
+      "hod": "Dr. Shrikrishna Dhale",
+      "email": "hodmba@sbjit.edu.in"
+    },
+    "source": "https://www.sbjit.edu.in/departments/",
+    "last_verified": "2026-09-07"
+  }
+}

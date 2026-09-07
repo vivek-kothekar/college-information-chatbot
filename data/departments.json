@@ -1,0 +1,326 @@
+{
+  "computer_science_engineering": {
+    "name": "Department of Computer Science & Engineering",
+    "short_name": "CSE",
+    "established": 2008,
+    "hod": {
+      "name": "Dr. Anup Gade",
+      "designation": "Associate Professor & Head of Department",
+      "email": "hodcse@sbjit.edu.in",
+      "phone": "+91 712 2667777",
+      "source": "https://www.sbjit.edu.in/computer-science-and-engineering/",
+      "last_verified": "2026-09-07"
+    },
+    "programs_offered": [
+      "B.Tech in Computer Science & Engineering (4 Years, Intake: 240 seats (2026-27))",
+      "Direct Second Year B.Tech CSE",
+      "M.Tech in Computer Science & Engineering (2 Years)",
+      "Ph.D. in Computer Science & Engineering"
+    ],
+    "description": "Established in 2008, accredited by NAAC with 'A' Grade, the department focuses on excellence in technical education, software development, client-server models, open-source technologies, and competitive coding.",
+    "vision": "To produce globally competent computer engineering professionals possessing strong analytical, algorithmic and ethical foundation.",
+    "mission": [
+      "Providing contemporary computing laboratories and continuous academic learning.",
+      "Inculcating problem-solving abilities and practical software development skills.",
+      "Fostering research, patents, and active professional society chapters like IEEE and CSI."
+    ],
+    "labs": [
+      "Advanced Computing Lab",
+      "Database Management Systems (DBMS) Lab",
+      "Software Engineering & Testing Lab",
+      "Object Oriented Programming (OOP / Java / Python) Lab",
+      "Operating Systems & Network Security Lab",
+      "Open Source Software & Web Development Lab"
+    ],
+    "placement_highlights": "Consistently high placement rate with recruitment in TCS, Infosys, Capgemini, Cognizant, Persistent Systems, Wipro, L&T Infotech, and Infocepts.",
+    "url": "https://www.sbjit.edu.in/computer-science-and-engineering/",
+    "source": "https://www.sbjit.edu.in/computer-science-and-engineering/",
+    "last_verified": "2026-09-07"
+  },
+  "cse_aiml": {
+    "name": "Department of Computer Science & Engineering (Artificial Intelligence & Machine Learning)",
+    "short_name": "CSE (AI & ML)",
+    "established": 2020,
+    "hod": {
+      "name": "Dr. Animesh Tayal",
+      "designation": "Associate Professor & Head of Department",
+      "email": "hodaiml@sbjit.edu.in",
+      "phone": "+91 712 2667777",
+      "source": "https://www.sbjit.edu.in/emerging-technologies/",
+      "last_verified": "2026-09-07"
+    },
+    "programs_offered": [
+      "B.Tech in Computer Science & Engineering (AI & ML) (4 Years, Intake: 120 seats (2026-27))"
+    ],
+    "description": "Dedicated to cutting-edge emerging technologies, preparing students for careers in Artificial Intelligence, Deep Learning, Natural Language Processing, Computer Vision, Cloud Computing, and Generative AI.",
+    "vision": "To emerge as a premier learning hub for Artificial Intelligence and Machine Learning innovation and applications.",
+    "mission": [
+      "Providing state-of-the-art GPU-enabled computing infrastructure for AI/ML experimentation.",
+      "Imparting rigorous foundation in mathematical algorithms, neural networks, and Python/PyTorch/TensorFlow frameworks.",
+      "Collaborating with leading technology industries for live projects and capstone hackathons."
+    ],
+    "labs": [
+      "AI & Machine Learning Innovation Lab (GPU-enabled)",
+      "Deep Learning & Computer Vision Lab",
+      "Natural Language Processing & Data Analytics Lab",
+      "Cloud Computing & Edge AI Sandbox"
+    ],
+    "placement_highlights": "High demand among recruiters for AI Engineers, ML Associates, Data Engineers, and Core Developers.",
+    "url": "https://www.sbjit.edu.in/emerging-technologies/",
+    "source": "https://www.sbjit.edu.in/emerging-technologies/",
+    "last_verified": "2026-09-07"
+  },
+  "cse_data_science": {
+    "name": "Department of Computer Science & Engineering (Data Science)",
+    "short_name": "CSE (Data Science)",
+    "established": 2020,
+    "hod": {
+      "name": "Dr. Dipak W. Wajgi",
+      "designation": "Associate Professor & Head of Department",
+      "email": "hodds@sbjit.edu.in",
+      "phone": "+91 712 2667777",
+      "source": "https://www.sbjit.edu.in/cseds-home/",
+      "last_verified": "2026-09-07"
+    },
+    "programs_offered": [
+      "B.Tech in Computer Science & Engineering (Data Science) (4 Years, Intake: 120 seats (2026-27))"
+    ],
+    "description": "Focuses on big data analytics, predictive modeling, statistical learning, business intelligence, data engineering, and data pipeline architectures.",
+    "vision": "To excel in data science education, analytical research, and data-driven solutions for industry and societal challenges.",
+    "mission": [
+      "Providing modern data computing platforms including Apache Spark, Hadoop, Python, and R.",
+      "Developing analytical mindset, business problem solving, and ethical data governance.",
+      "Bridging the gap between academic theory and industry data science practices."
+    ],
+    "labs": [
+      "Data Science & Analytics Lab",
+      "Big Data Processing & Hadoop Lab",
+      "Statistical Computing & Machine Learning Lab",
+      "Data Visualization & BI Tools Lab"
+    ],
+    "placement_highlights": "Placement opportunities across analytics consultancies, financial institutions, IT services, and product companies.",
+    "url": "https://www.sbjit.edu.in/cseds-home/",
+    "source": "https://www.sbjit.edu.in/cseds-home/",
+    "last_verified": "2026-09-07"
+  },
+  "electrical_engineering": {
+    "name": "Department of Electrical Engineering",
+    "short_name": "EE",
+    "established": 2008,
+    "hod": {
+      "name": "Dr. Chandrakant Rathore",
+      "designation": "Associate Professor & Head of Department",
+      "email": "hodee@sbjit.edu.in",
+      "phone": "+91 712 2667777",
+      "source": "https://www.sbjit.edu.in/electrical-engineering/",
+      "last_verified": "2026-09-07"
+    },
+    "programs_offered": [
+      "B.Tech in Electrical Engineering (4 Years, Intake: 30 seats (2026-27))",
+      "Direct Second Year B.Tech EE"
+    ],
+    "description": "Imparts comprehensive education in electrical machines, power systems, renewable energy, smart grids, electric vehicles (EV), and automation.",
+    "vision": "To create competent electrical engineers proficient in power systems, green energy, and electrical automation.",
+    "mission": [
+      "Equipping students with solid foundation in electrical circuits, drives, and control systems.",
+      "Fostering hands-on practical skills in industrial automation and renewable energy technologies.",
+      "Promoting professional student chapter activities through IEEE PES (Power & Energy Society)."
+    ],
+    "labs": [
+      "Electrical Machines Lab",
+      "Power Systems & Protection Lab",
+      "Power Electronics & Electric Drives Lab",
+      "Control Systems Lab",
+      "Renewable Energy & Smart Grid Simulation Lab",
+      "Basic Electrical Engineering Lab"
+    ],
+    "placement_highlights": "Recruitment across core power sector, energy management, manufacturing, EPC contractors, and IT companies.",
+    "url": "https://www.sbjit.edu.in/electrical-engineering/",
+    "source": "https://www.sbjit.edu.in/electrical-engineering/",
+    "last_verified": "2026-09-07"
+  },
+  "electronics_and_telecommunication": {
+    "name": "Department of Electronics & Telecommunication Engineering",
+    "short_name": "ETC",
+    "established": 2008,
+    "hod": {
+      "name": "Dr. Abhay Kasetwar",
+      "designation": "Associate Professor & Head of Department",
+      "email": "hodetc@sbjit.edu.in",
+      "phone": "+91 712 2667777",
+      "source": "https://www.sbjit.edu.in/electronicsandtele/",
+      "last_verified": "2026-09-07"
+    },
+    "programs_offered": [
+      "B.Tech in Electronics & Telecommunication Engineering (4 Years, Intake: 60 seats (2026-27))",
+      "M.Tech in Electronics / VLSI Design (2 Years)",
+      "Direct Second Year B.Tech ETC"
+    ],
+    "description": "Offers robust education in wireless communications, VLSI design, embedded systems, Internet of Things (IoT), signal processing, and robotics.",
+    "vision": "To emerge as a center of excellence in electronics, wireless communication, and embedded technologies.",
+    "mission": [
+      "Providing industry-standard simulation software and hardware test benches for electronic circuits.",
+      "Empowering students with hands-on skills in FPGA, microcontrollers, IoT boards, and RF communications.",
+      "Promoting IETE and student forum (ELESA) technical events."
+    ],
+    "labs": [
+      "VLSI Design & Simulation Lab",
+      "Embedded Systems & IoT Lab",
+      "Digital Signal Processing (DSP) Lab",
+      "Communication Engineering & Microwave Lab",
+      "Analog & Digital Electronics Lab"
+    ],
+    "placement_highlights": "Placements in semiconductor, telecommunications, networking, embedded hardware, and IT consultancy companies.",
+    "url": "https://www.sbjit.edu.in/electronicsandtele/",
+    "source": "https://www.sbjit.edu.in/electronicsandtele/",
+    "last_verified": "2026-09-07"
+  },
+  "mechanical_engineering": {
+    "name": "Department of Mechanical Engineering",
+    "short_name": "ME",
+    "established": 2008,
+    "hod": {
+      "name": "Dr. Harish Bhatkulkar",
+      "designation": "Associate Professor & Head of Department",
+      "email": "hodmech@sbjit.edu.in",
+      "phone": "+91 712 2667777",
+      "source": "https://www.sbjit.edu.in/mechanical-engineering/",
+      "last_verified": "2026-09-07"
+    },
+    "programs_offered": [
+      "B.Tech in Mechanical Engineering (4 Years, Intake: 30 seats (2026-27))",
+      "Direct Second Year B.Tech ME"
+    ],
+    "description": "Emphasizes design engineering, thermal engineering, robotics, CAD/CAM/CAE, manufacturing technologies, and modern mechatronics.",
+    "vision": "To develop technically competent, ethically grounded, and innovative mechanical engineers.",
+    "mission": [
+      "Providing advanced mechanical laboratories, modern CNC machining, and 3D modeling tools.",
+      "Encouraging participation in national vehicle competitions (BAJA SAE, Go-Kart, Solar Car).",
+      "Strengthening industry tie-ups for internships and industrial visits through student forum (MESA)."
+    ],
+    "labs": [
+      "CAD/CAM/CAE Simulation Lab",
+      "Thermal Engineering & IC Engines Lab",
+      "Fluid Mechanics & Hydraulic Machinery Lab",
+      "Theory of Machines & Vibration Lab",
+      "Metallurgy & Material Testing Lab",
+      "Central Engineering Workshop & CNC Lab"
+    ],
+    "placement_highlights": "Recruiters include automotive, manufacturing, thermal power, automation, design consultancy, and IT services.",
+    "url": "https://www.sbjit.edu.in/mechanical-engineering/",
+    "source": "https://www.sbjit.edu.in/mechanical-engineering/",
+    "last_verified": "2026-09-07"
+  },
+  "first_year_engineering": {
+    "name": "Department of First Year Engineering (Basic Sciences & Humanities)",
+    "short_name": "FYE",
+    "established": 2008,
+    "hod": {
+      "name": "Mr. Vinod Suple",
+      "designation": "Assistant Professor & Head of Department",
+      "email": "hodfye@sbjit.edu.in",
+      "phone": "+91 9923146219",
+      "source": "https://www.sbjit.edu.in/first-year-engineering/",
+      "last_verified": "2026-09-07"
+    },
+    "programs_offered": [
+      "Common Foundation Coursework for all B.Tech Branches (Intake: 240 seats (2026-27))"
+    ],
+    "description": "Lays the foundational groundwork in Applied Mathematics, Applied Physics, Applied Chemistry, Communication Skills, Engineering Mechanics, and Basic Programming.",
+    "vision": "To establish a strong scientific foundation and nurture multidisciplinary thinking in budding engineers.",
+    "mission": [
+      "Strengthening fundamental principles of science, mathematics, and professional communication.",
+      "Conducting student induction programs (SIP), mentoring, and diagnostic assessment tests.",
+      "Fostering ethical consciousness, team building, and transition into professional engineering."
+    ],
+    "labs": [
+      "Engineering Physics Lab",
+      "Engineering Chemistry Lab",
+      "Language & Professional Communication Lab",
+      "Basic Engineering Workshop",
+      "Computer Programming Foundation Lab"
+    ],
+    "placement_highlights": "Builds fundamental aptitude and soft skills right from induction.",
+    "url": "https://www.sbjit.edu.in/first-year-engineering/",
+    "source": "https://www.sbjit.edu.in/first-year-engineering/",
+    "last_verified": "2026-09-07"
+  },
+  "master_of_business_administration": {
+    "name": "Department of Management Studies (MBA)",
+    "short_name": "MBA",
+    "established": 2009,
+    "hod": {
+      "name": "NOT FOUND on current official page (Heading 'From The HoD's Desk' exists but name not published)",
+      "designation": "Head of Department",
+      "email": "hodmba@sbjit.edu.in",
+      "phone": "+91 712 2667777",
+      "source": "https://www.sbjit.edu.in/mba/",
+      "last_verified": "2026-09-07"
+    },
+    "programs_offered": [
+      "Master of Business Administration (MBA) (2 Years, Intake: Not explicitly published on 2026-27 page)"
+    ],
+    "specializations": [
+      "Marketing Management",
+      "Financial Management",
+      "Human Resource Management (HRM)",
+      "Operations & Supply Chain Management",
+      "Business Analytics"
+    ],
+    "description": "Recognized among top management departments in Vidarbha, awarded Outstanding Business School (West), focusing on leadership, entrepreneurial spirit, and managerial decision making.",
+    "vision": "To emerge as a premier management department developing ethical, innovative, and global business leaders.",
+    "mission": [
+      "Delivering industry-integrated management curriculum enriched with live corporate case studies.",
+      "Conducting business conclaves, corporate guest lectures, and experiential management workshops.",
+      "Facilitating summer internships and executive placements across top corporate sectors."
+    ],
+    "labs": [
+      "Management Computer Lab",
+      "Business Analytics & Financial Modeling Lab",
+      "Group Discussion & Personal Interview (GD/PI) Simulation Suite"
+    ],
+    "placement_highlights": "Recruiters include banking & financial institutions (HDFC, ICICI, Axis Bank), FMCG, retail, tech consultancies, and marketing firms.",
+    "url": "https://www.sbjit.edu.in/mba/",
+    "source": "https://www.sbjit.edu.in/mba/",
+    "last_verified": "2026-09-07"
+  },
+  "computer_applications_bca_mca": {
+    "name": "Department of Computer Applications (BCA & MCA)",
+    "short_name": "BCA / MCA",
+    "established": 2024,
+    "hod": {
+      "name": "Dr. Shailesh Gahane",
+      "designation": "Head of Department",
+      "email": "hodbca@sbjit.edu.in",
+      "phone": "+91-8624013925",
+      "source": "https://sbjit.edu.in/bca/",
+      "last_verified": "2026-09-07"
+    },
+    "programs_offered": [
+      "Bachelor of Computer Application (BCA) (3 Years, Intake: 120 seats (2026-27))",
+      "Master of Computer Application (MCA) (2 Years, Intake: 24 seats (2026-27))"
+    ],
+    "description": "Administered under the Department of Computer Applications, preparing students for careers in software engineering, database management, cloud systems, and applied IT solutions.",
+    "url": "https://sbjit.edu.in/bca/",
+    "source": "https://sbjit.edu.in/bca/",
+    "last_verified": "2026-09-07"
+  },
+  "bachelor_of_business_administration": {
+    "name": "Bachelor of Business Administration (BBA)",
+    "short_name": "BBA",
+    "established": 2024,
+    "hod": {
+      "name": "Administered under Department of Management (Specific BBA HOD name not published on official BBA page)",
+      "email": "info@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/bba-home/",
+      "last_verified": "2026-09-07"
+    },
+    "programs_offered": [
+      "Bachelor of Business Administration (BBA) (3 Years)"
+    ],
+    "description": "Administered under the Department of Management, providing foundational corporate administration and managerial decision-making skills.",
+    "url": "https://www.sbjit.edu.in/bba-home/",
+    "source": "https://www.sbjit.edu.in/bba-home/",
+    "last_verified": "2026-09-07"
+  }
+}

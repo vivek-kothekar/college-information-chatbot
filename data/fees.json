@@ -1,0 +1,82 @@
+{
+  "fee_regulatory_authority_status": {
+    "body": "Fee Regulating Authority (FRA), Government of Maharashtra",
+    "note": "Fees for SBJITMR are officially regulated and approved on an annual basis by the Fee Regulating Authority (FRA) Maharashtra in accordance with the Maharashtra Unaided Private Professional Educational Institutions Act.",
+    "source": "https://www.sbjit.edu.in/fra-fees-structure/",
+    "last_verified": "2026-09-07"
+  },
+  "mandatory_disclosure_ay_2024_25": {
+    "b_tech": "₹1,13,500",
+    "mba": "₹92,000",
+    "m_tech": "₹44,306",
+    "bca_bba_mca": "NOT published in the latest official disclosure (AY 2024-25). Please check official website or contact college.",
+    "source": "https://www.sbjit.edu.in/wp-content/uploads/2024/12/Mandatory-Disclosure-2024-25-Final.pdf",
+    "last_verified": "2026-09-07"
+  },
+  "course_wise_fee_structure": {
+    "b_tech_engineering": {
+      "course": "B.Tech (Four Year Degree Course in Engineering)",
+      "mandatory_disclosure_fee_2024_25": "₹1,13,500",
+      "annual_tuition_fee": "Approx. ₹1,00,000 - ₹1,05,000 per year (as approved by FRA)",
+      "annual_development_fee": "Approx. ₹10,000 - ₹13,500 per year",
+      "total_approx_annual_fee": "₹1,13,500 per year as per Mandatory Disclosure 2024-25 (Approx. ₹4.54 Lakhs for 4 years for Open Category)",
+      "category_wise_net_payable": {
+        "open_general": "100% Tuition Fee + 100% Development Fee (₹1,13,500/year)",
+        "ebc_open_with_income_under_8_lakhs": "50% Tuition Fee Concession under Rajarshi Shahu Maharaj Scheme + Development Fee (Approx. ₹60,000 - ₹65,000/year)",
+        "obc": "50% Tuition Fee reimbursed via MahaDBT Scholarship + Development Fee (Approx. ₹60,000 - ₹65,000/year)",
+        "sc_st": "100% Tuition & Development Fee covered under GOI Scholarship (Only nominal exam/university fee payable)",
+        "vjnt_sbc_tfws": "100% Tuition Fee waiver; only development and university fees payable (Approx. ₹13,500/year)"
+      },
+      "source": "https://www.sbjit.edu.in/wp-content/uploads/2024/12/Mandatory-Disclosure-2024-25-Final.pdf",
+      "last_verified": "2026-09-07"
+    },
+    "direct_second_year_engineering": {
+      "course": "B.Tech Direct Second Year (Lateral Entry - 3 Years)",
+      "total_approx_fee": "Approx. ₹3.40 Lakhs for 3 years (Open Category)",
+      "scholarship_eligibility": "Full MahaDBT category concessions applicable as per state rules",
+      "source": "https://www.sbjit.edu.in/student-scholarship/",
+      "last_verified": "2026-09-07"
+    },
+    "mba": {
+      "course": "Master of Business Administration (MBA - 2 Years)",
+      "mandatory_disclosure_fee_2024_25": "₹92,000",
+      "annual_fee": "₹92,000 per year (Total ₹1,84,000 for 2 years for Open Category)",
+      "category_concessions": "50% Tuition fee for OBC/EBC; 100% Tuition fee for SC/ST/VJNT/SBC via MahaDBT",
+      "source": "https://www.sbjit.edu.in/wp-content/uploads/2024/12/Mandatory-Disclosure-2024-25-Final.pdf",
+      "last_verified": "2026-09-07"
+    },
+    "m_tech": {
+      "course": "M.Tech (Electronics Engineering - 2 Years)",
+      "mandatory_disclosure_fee_2024_25": "₹44,306",
+      "annual_fee": "₹44,306 per year",
+      "source": "https://www.sbjit.edu.in/wp-content/uploads/2024/12/Mandatory-Disclosure-2024-25-Final.pdf",
+      "last_verified": "2026-09-07"
+    },
+    "mca": {
+      "course": "Master of Computer Application (MCA - 2 Years)",
+      "fee_note": "Fees for MCA are NOT published in the latest official Mandatory Disclosure 2024-25. Please check with college.",
+      "source": "https://www.sbjit.edu.in/wp-content/uploads/2024/12/Mandatory-Disclosure-2024-25-Final.pdf",
+      "last_verified": "2026-09-07"
+    },
+    "bca_and_bba": {
+      "course": "BCA and BBA (3 Years)",
+      "fee_note": "Fees for BCA and BBA are NOT published in the latest official Mandatory Disclosure 2024-25. Please check with college.",
+      "source": "https://www.sbjit.edu.in/wp-content/uploads/2024/12/Mandatory-Disclosure-2024-25-Final.pdf",
+      "last_verified": "2026-09-07"
+    }
+  },
+  "bank_neft_rtgs_details": {
+    "account_name": "S. B. Jain Institute of Technology Management & Research",
+    "account_number": "624205013376",
+    "ifsc_code": "ICIC0006242",
+    "bank_name": "ICICI Bank",
+    "branch": "Ramdaspeth, Nagpur",
+    "demand_draft_instructions": "Demand Draft (DD) in favor of \"S. B. Jain Institute of Technology, Management & Research\" Payable at NAGPUR",
+    "confirmation_contact_numbers": [
+      "+91-9921021167",
+      "+91-7507684984"
+    ],
+    "source": "https://www.sbjit.edu.in/neft-details/",
+    "last_verified": "2026-09-07"
+  }
+}

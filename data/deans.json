@@ -1,0 +1,70 @@
+{
+  "dean_academics": {
+    "name": "Dr. Pankaj Thote",
+    "designation": "Dean Academics",
+    "role": "Chief Academic Officer of SBJITMR",
+    "office": "Office of Dean Academics, Main Administrative Block, SBJITMR Campus",
+    "email": "deanacademics@sbjit.edu.in",
+    "phone": "+91 712 2667777",
+    "responsibilities": [
+      "Curriculum design, revisions, and alignment with Outcome-Based Education (OBE) guidelines",
+      "Coordination of Board of Studies (BoS) and Academic Council meetings",
+      "Preparation and adherence to Institute Academic Calendar",
+      "Monitoring teaching-learning pedagogies, student attendance, and continuous assessment",
+      "Faculty development programs (FDPs) and pedagogical enhancements"
+    ],
+    "source": "https://www.sbjit.edu.in/message-from-dean-academics/",
+    "last_verified": "2026-09-07"
+  },
+  "dean_students_affairs": {
+    "name": "Dr. Yogesh P. Shinde",
+    "designation": "Dean Students Affairs",
+    "role": "Head of Student Welfare and Campus Life",
+    "office": "Office of Dean Students Affairs, Ground Floor, SBJITMR Campus",
+    "email": "deanstudentsaffairs@sbjit.edu.in",
+    "phone": "+91 8999300998 / +91 9923280550",
+    "responsibilities": [
+      "Holistic development of students' personality, leadership, and ethical values",
+      "Supervising co-curricular and extra-curricular student clubs and professional bodies",
+      "Managing student events, technical festivals (Technotsav), cultural functions, and annual gatherings",
+      "Coordination of National Service Scheme (NSS), NCC, and Sports activities",
+      "Student grievances, campus discipline, student counselling, and welfare initiatives",
+      "Hostel facilities and student transportation oversight"
+    ],
+    "source": "https://www.sbjit.edu.in/student-affairs/",
+    "last_verified": "2026-09-07"
+  },
+  "dean_engineering": {
+    "name": "Dr. M. M. Raghuwanshi",
+    "designation": "Dean Engineering",
+    "role": "Academic Dean for Engineering Faculties",
+    "office": "Office of Dean Engineering, Academic Block, SBJITMR Campus",
+    "email": "deanengineering@sbjit.edu.in",
+    "phone": "+91 712 2667777",
+    "responsibilities": [
+      "Strategic academic coordination across all engineering departments (CSE, AIML, DS, EE, ETC, Mech)",
+      "Interdisciplinary engineering projects and laboratory modernization",
+      "Teacher representation on the Academic Council and Governing Body",
+      "Industry-aligned capstone engineering projects and research integration"
+    ],
+    "source": "https://www.sbjit.edu.in/academic-council/",
+    "last_verified": "2026-09-07"
+  },
+  "dean_research_development": {
+    "name": "Dr. Raghvendra S. Dubey / Dr. Abhay Kasetwar",
+    "designation": "Dean (Research & Development)",
+    "role": "Head of Institute Research & Development Cell",
+    "office": "R&D Cell, SBJITMR Campus",
+    "email": "rdcell@sbjit.edu.in",
+    "phone": "+91 712 2667777",
+    "responsibilities": [
+      "Promoting faculty and student research publications in SCI/Scopus indexed journals",
+      "Facilitating patent filing, copyright registration, and intellectual property rights (IPR)",
+      "Procuring government and industrial research grants",
+      "Managing faculty incentives for research and conference participations",
+      "Guiding PhD research scholars and overseeing doctoral research center activities"
+    ],
+    "source": "https://www.sbjit.edu.in/rd-cell/",
+    "last_verified": "2026-09-07"
+  }
+}

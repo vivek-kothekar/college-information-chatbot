@@ -1,0 +1,92 @@
+{
+  "principal": {
+    "name": "Prof. (Dr.) Sanjay L. Badjate",
+    "designation": "Principal",
+    "department_or_office": "Office of the Principal",
+    "email": "principal@sbjit.edu.in",
+    "phone": "+91 712 2667777 / +91 712 6677000",
+    "responsibilities": "Head of the institution, academic leadership, overall administration, statutory compliance, institutional development, and presiding Chairman of the Academic Council.",
+    "source": "https://www.sbjit.edu.in/message-from-principal/",
+    "last_verified": "2026-09-07"
+  },
+  "ceo": {
+    "name": "Mr. Sanjeev Agrawal",
+    "designation": "Chief Executive Officer (CEO)",
+    "department_or_office": "Executive Management",
+    "email": "ceo@sbjit.edu.in",
+    "phone": "+91 712 2667777",
+    "responsibilities": "Strategic executive leadership, institutional expansion, corporate partnerships, resource planning, infrastructure management, and driving world-class benchmarks in technical education.",
+    "source": "https://www.sbjit.edu.in/message-from-ceo/",
+    "last_verified": "2026-09-07"
+  },
+  "registrar": {
+    "name": "Registrar / Administration Office",
+    "designation": "Registrar",
+    "department_or_office": "Administrative Office",
+    "email": "info@sbjit.edu.in",
+    "phone": "+91 712 2667777 / +91 9764508160",
+    "responsibilities": "Custodian of institute records, human resources, administrative governance, statutory reporting, university liaison, and student document verification.",
+    "source": "https://www.sbjit.edu.in/contact-us/",
+    "last_verified": "2026-09-07"
+  },
+  "controller_of_examinations": {
+    "name": "Prof. Pankaj Jaiswal",
+    "designation": "Controller of Examinations (CoE)",
+    "department_or_office": "Autonomous Examination Cell",
+    "email": "coesbjain@sbjit.edu.in",
+    "phone": "+91 712 2667777",
+    "responsibilities": "Directing the autonomous examination system, paper setting, examination timetables, conduct of continuous assessment (CAT) and End Semester Examinations (ESE), evaluations, moderation, result declarations, and revaluation process.",
+    "source": "https://www.sbjit.edu.in/exam-cell/",
+    "last_verified": "2026-09-07"
+  },
+  "dean_academics": {
+    "name": "Dr. Pankaj Thote",
+    "designation": "Dean Academics",
+    "department_or_office": "Office of Dean Academics",
+    "email": "deanacademics@sbjit.edu.in",
+    "phone": "+91 712 2667777",
+    "responsibilities": "Academic planning, curriculum development, implementation of Outcome-Based Education (OBE), academic regulations, monitoring timetable and academic calendar execution, teaching-learning quality assurance.",
+    "source": "https://www.sbjit.edu.in/message-from-dean-academics/",
+    "last_verified": "2026-09-07"
+  },
+  "dean_students_affairs": {
+    "name": "Dr. Yogesh P. Shinde",
+    "designation": "Dean Students Affairs",
+    "department_or_office": "Office of Dean Students Affairs",
+    "email": "deanstudentsaffairs@sbjit.edu.in",
+    "phone": "+91 8999300998 / +91 9923280550",
+    "responsibilities": "Student welfare, disciplinary matters, student professional chapters, technical & cultural student clubs, NSS, NCC, sports coordination, student counseling, and hostel/transportation oversight.",
+    "source": "https://www.sbjit.edu.in/student-affairs/",
+    "last_verified": "2026-09-07"
+  },
+  "dean_engineering": {
+    "name": "Dr. M. M. Raghuwanshi",
+    "designation": "Dean Engineering",
+    "department_or_office": "Office of Dean Engineering",
+    "email": "deanengineering@sbjit.edu.in",
+    "phone": "+91 712 2667777",
+    "responsibilities": "Overseeing technical and engineering faculties, interdisciplinary coordination, academic quality benchmarks across engineering departments, and teacher representation on the Academic Council.",
+    "source": "https://www.sbjit.edu.in/academic-council/",
+    "last_verified": "2026-09-07"
+  },
+  "dean_research_development": {
+    "name": "Dr. Raghvendra S. Dubey / Dr. Abhay Kasetwar",
+    "designation": "Dean (Research & Development)",
+    "department_or_office": "Research & Development Cell",
+    "email": "rdcell@sbjit.edu.in",
+    "phone": "+91 712 2667777",
+    "responsibilities": "Promoting sponsored research, patents, research publications, industrial consultancy, IPR cell, and research incentives for faculty and scholars.",
+    "source": "https://www.sbjit.edu.in/governing-body/",
+    "last_verified": "2026-09-07"
+  },
+  "head_training_and_placement": {
+    "name": "Mr. Ashish Lawrence",
+    "designation": "Head, Training & Placement",
+    "department_or_office": "Training & Placement Cell",
+    "email": "tpo@sbjit.edu.in",
+    "phone": "+91-9579194601",
+    "responsibilities": "Leading campus recruitment drives, industry-institute tie-ups, campus recruitment training (CRT), student internships, and corporate relations.",
+    "source": "https://www.sbjit.edu.in/placements/",
+    "last_verified": "2026-09-07"
+  }
+}

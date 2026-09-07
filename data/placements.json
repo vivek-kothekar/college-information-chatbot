@@ -1,0 +1,97 @@
+{
+  "training_and_placement_cell": {
+    "name": "Training & Placement Department (Igniters)",
+    "motto": "Shielding Talent. Shaping Futures.",
+    "role": "Acts as the pivotal bridge between students, academia, and global corporate recruiters, organizing campus recruitment, skill training, and industry internships.",
+    "head_tpo": {
+      "name": "Mr. Ashish Lawrence",
+      "designation": "Head, Training & Placement (Assistant Professor)",
+      "contact": "+91-9579194601",
+      "email": "tpo@sbjit.edu.in",
+      "office": "T&P Cell, SBJITMR Campus"
+    },
+    "tpo_officer": {
+      "name": "Dr. Amit Tajne",
+      "designation": "Training & Placement Officer (Assistant Professor)",
+      "contact": "+91-9579194601",
+      "email": "tpo@sbjit.edu.in",
+      "office": "T&P Cell, SBJITMR Campus"
+    },
+    "department_coordinators": [
+      {
+        "name": "Mr. Yogesh Katre",
+        "department": "Computer Science and Engineering",
+        "email": "katreyogesh@sbjit.edu.in"
+      },
+      {
+        "name": "Mr. Abhijeet Thakur",
+        "department": "Computer Science and Engineering",
+        "email": "abhijeetthakur@sbjit.edu.in"
+      },
+      {
+        "name": "Mr. Nikhil Sakhare",
+        "department": "Computer Science & Engineering (AI&ML / Emerging Tech)",
+        "email": "nikhilsakhre@sbjit.edu.in"
+      },
+      {
+        "name": "Mr. Irfan Javed",
+        "department": "Electronics and Telecommunication Engineering",
+        "email": "irfanjaved@sbjit.edu.in"
+      },
+      {
+        "name": "Mr. Vishant Naik",
+        "department": "Electrical Engineering",
+        "email": "vishantnaik@sbjit.edu.in"
+      },
+      {
+        "name": "Mr. Pratik Kamble",
+        "department": "Mechanical Engineering",
+        "email": "pratikkamble@sbjit.edu.in"
+      }
+    ],
+    "source": "https://www.sbjit.edu.in/placements/",
+    "last_verified": "2026-09-07"
+  },
+  "placement_statistics": {
+    "highest_package": "12 LPA",
+    "average_package": "4.2 LPA",
+    "total_placements": "Over 3,500+ student placements",
+    "participating_companies": "600+ recruitment partners",
+    "source": "https://www.sbjit.edu.in/placements/",
+    "last_verified": "2026-09-07"
+  },
+  "top_recruiters": [
+    "Tata Consultancy Services (TCS)",
+    "Infosys",
+    "Capgemini",
+    "Cognizant",
+    "Wipro Technologies",
+    "Persistent Systems",
+    "LTI Mindtree (Larsen & Toubro Infotech)",
+    "Tech Mahindra",
+    "Amazon",
+    "GlobalLogic",
+    "Infocepts",
+    "Cybage Software",
+    "Accenture",
+    "Hexaware Technologies",
+    "HCL Technologies",
+    "Juspay",
+    "Byju's",
+    "Triveni Turbines",
+    "Dhoot Transmission"
+  ],
+  "training_programs": [
+    "Campus Recruitment Training (CRT): Exhaustive training modules covering quantitative aptitude, logical reasoning, verbal ability, and data interpretation.",
+    "Technical Upskilling: Hands-on bootcamps in Full-Stack Web Development, Python, Java, Data Structures, AI/ML, and Cloud platforms.",
+    "Soft Skills & Professional Grooming: Mock group discussions (GD), mock technical and HR interviews, business etiquette, and resume-building clinics.",
+    "Internships: Facilitating mandatory summer and final semester internships across MNCs, industrial R&D units, and tech startups."
+  ],
+  "official_links": {
+    "placements_page": "https://www.sbjit.edu.in/placements/",
+    "recruiters_page": "https://www.sbjit.edu.in/recruiters/",
+    "training_placement_cell": "https://www.sbjit.edu.in/training-placement-cell/",
+    "source": "https://www.sbjit.edu.in/placements/",
+    "last_verified": "2026-09-07"
+  }
+}

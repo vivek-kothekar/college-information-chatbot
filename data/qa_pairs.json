@@ -1,0 +1,618 @@
+[
+  {
+    "id": "mission",
+    "questions": [
+      "What is the mission of SBJITMR?",
+      "What is the mission?"
+    ],
+    "answer": "The mission of S. B. Jain Institute of Technology, Management & Research (SBJITMR) is:\n\n1. Providing Quality Infrastructure and experienced faculty for academic excellence.\n2. Inculcating skills, knowledge and opportunities for competency and creativity.\n3. Aligning with Industries for knowledge sharing, research and development.\n\n(Official source: SBJITMR official website — https://www.sbjit.edu.in/)",
+    "sources": [{"title": "SBJITMR Official Website", "url": "https://www.sbjit.edu.in/"}]
+  },
+  {
+    "id": "vision",
+    "questions": [
+      "What is the vision of SBJITMR?",
+      "What is the vision?"
+    ],
+    "answer": "Emerge as a leading Institute for developing competent and creative Professionals.",
+    "sources": [{"title": "Official SBJITMR Vision & Mission", "url": "https://www.sbjit.edu.in/vision-mision/"}]
+  },
+  {
+    "id": "vision_and_mission",
+    "questions": [
+      "What is the vision and mission of SBJITMR?",
+      "Vision and mission"
+    ],
+    "answer": "Vision: Emerge as a leading Institute for developing competent and creative Professionals.\n\nMission: Providing Quality Infrastructure and experienced faculty for academic excellence. Inculcating skills, knowledge and opportunities for competency and creativity. Aligning with Industries for knowledge sharing, research and development.",
+    "sources": [{"title": "Official SBJITMR Vision & Mission", "url": "https://www.sbjit.edu.in/vision-mision/"}]
+  },
+  {
+    "id": "principal",
+    "questions": [
+      "Who is the Principal of SBJITMR?",
+      "Who is the Principal?",
+      "Who is the principal of SBJITMR?"
+    ],
+    "answer": "The Principal of S.B. Jain Institute of Technology, Management & Research (SBJITMR), Nagpur is Dr. S. L. Badjate. (email: principal@sbjit.edu.in). (Official source: Message from Principal page — https://www.sbjit.edu.in/message-from-principal/)",
+    "sources": [{"title": "Message from Principal", "url": "https://www.sbjit.edu.in/message-from-principal/"}]
+  },
+  {
+    "id": "ceo",
+    "questions": [
+      "Who is the CEO of SBJITMR?",
+      "Who is the CEO?"
+    ],
+    "answer": "The CEO of S.B. Jain Institute of Technology, Management & Research (SBJITMR), Nagpur is Mr. Sanjeev Agrawal. (Official source: Message from CEO page — https://www.sbjit.edu.in/message-from-ceo/; official email ceo@sbjit.edu.in)",
+    "sources": [{"title": "Message from CEO", "url": "https://www.sbjit.edu.in/message-from-ceo/"}]
+  },
+  {
+    "id": "registrar",
+    "questions": [
+      "Who is the Registrar of SBJITMR?",
+      "Who is the registrar of SBJITMR?",
+      "Who is the Registrar?"
+    ],
+    "answer": "The official SBJITMR contact page lists a Registrar (official email: info@sbjit.edu.in). The Registrar's personal name is not published on the official site, so it cannot be verified here. (Official source: Contact page — https://www.sbjit.edu.in/contact-us-2/)",
+    "sources": [{"title": "Contact Page", "url": "https://www.sbjit.edu.in/contact-us-2/"}]
+  },
+  {
+    "id": "hod_cse",
+    "questions": [
+      "Who is the HOD of CSE (Computer Science & Engineering) at SBJITMR?",
+      "Who is the CSE HOD?",
+      "Who is the HOD of CSE?"
+    ],
+    "answer": "The Head of the Department of Computer Science and Engineering (CSE) at SBJITMR is Dr. Anup Gade. (Official source: CSE department page — https://www.sbjit.edu.in/computer-science-and-engineering/)",
+    "sources": [{"title": "CSE Department Page", "url": "https://www.sbjit.edu.in/computer-science-and-engineering/"}]
+  },
+  {
+    "id": "hod_aiml",
+    "questions": [
+      "Who is the HOD of CSE (AI & ML) at SBJITMR?",
+      "Who is the HOD of AI & ML?",
+      "Who is the HOD of AIML?"
+    ],
+    "answer": "The Head of the Department of CSE (Artificial Intelligence & Machine Learning) at SBJITMR is Dr. Animesh Tayal. (Official source: Emerging Technologies department page — https://www.sbjit.edu.in/emerging-technologies/)",
+    "sources": [{"title": "Emerging Technologies Department Page", "url": "https://www.sbjit.edu.in/emerging-technologies/"}]
+  },
+  {
+    "id": "hod_data_science",
+    "questions": [
+      "Who is the HOD of CSE (Data Science) at SBJITMR?",
+      "Who is the HOD of Data Science?",
+      "Who is the HOD of CSEDS?"
+    ],
+    "answer": "The Head of the Department of CSE (Data Science) / CSEDS at SBJITMR is Dr. Dipak Wajgi. (Official source: CSEDS department page — https://www.sbjit.edu.in/cseds-home/)",
+    "sources": [{"title": "CSEDS Department Page", "url": "https://www.sbjit.edu.in/cseds-home/"}]
+  },
+  {
+    "id": "hod_bca_mca",
+    "questions": [
+      "Who is the HOD of BCA / MCA at SBJITMR?",
+      "Who is the HOD of BCA at SBJITMR?",
+      "Who is the HOD of MCA at SBJITMR?",
+      "Who is the HOD of BCA?",
+      "Who is the HOD of MCA?"
+    ],
+    "answer": "The Head of the Department of Computer Applications at S.B. Jain Institute of Technology, Management & Research (SBJITMR), Nagpur — which covers both the BCA and MCA programmes — is Dr. Shailesh Gahane. Official contact: hodbca@sbjit.edu.in · +91-8624013925. (Official sources: BCA department page — https://sbjit.edu.in/bca/; MCA department page — https://www.sbjit.edu.in/mca-2/)\n\nNote: The name reflects the currently verified official page and should be re-verified against the latest BCA department page if it changes. Do not add any other entries in this edit.",
+    "sources": [
+      {"title": "BCA Department Page", "url": "https://sbjit.edu.in/bca/"},
+      {"title": "MCA Department Page", "url": "https://www.sbjit.edu.in/mca-2/"}
+    ]
+  },
+  {
+    "id": "hod_bba",
+    "questions": [
+      "Who is the HOD of BBA at SBJITMR?",
+      "Who is the HOD of BBA?"
+    ],
+    "answer": "The Bachelor of Business Administration (BBA) programme at S.B. Jain Institute of Technology, Management & Research (SBJITMR), Nagpur is administered under the Department of Management. The specific BBA HOD name is not explicitly published on the official BBA page, so it cannot be verified here. Please contact the college for the current BBA HOD name. (Official sources: BBA programme page — https://www.sbjit.edu.in/bba-home/; Department of Management context — https://www.sbjit.edu.in/academic-council/)\n\nNote: The name reflects the currently verified official page and should be re-verified against the latest Department of Management / Academic Council page if it changes. Do not add any other entries in this edit.",
+    "sources": [
+      {"title": "BBA Programme Page", "url": "https://www.sbjit.edu.in/bba-home/"},
+      {"title": "Academic Council Page", "url": "https://www.sbjit.edu.in/academic-council/"}
+    ]
+  },
+  {
+    "id": "hod_mechanical",
+    "questions": [
+      "Who is the HOD of Mechanical Engineering at SBJITMR?",
+      "Who is the Mechanical HOD?"
+    ],
+    "answer": "The Head of the Department of Mechanical Engineering at S.B. Jain Institute of Technology, Management & Research (SBJITMR), Nagpur is Dr. Harish Bhatkulkar. (Official source: Mechanical Engineering department page — https://www.sbjit.edu.in/mechanical-engineering/)",
+    "sources": [{"title": "Mechanical Engineering Department Page", "url": "https://www.sbjit.edu.in/mechanical-engineering/"}]
+  },
+  {
+    "id": "hod_first_year",
+    "questions": [
+      "Who is the HOD of First Year Engineering at SBJITMR?",
+      "Who is the First Year Engineering HOD?"
+    ],
+    "answer": "The Head of the First Year Engineering Department at S.B. Jain Institute of Technology, Management & Research (SBJITMR), Nagpur is Prof. Vinod Suple. (Official source: First Year Engineering department page — https://www.sbjit.edu.in/first-year-engineering/)",
+    "sources": [{"title": "First Year Engineering Department Page", "url": "https://www.sbjit.edu.in/first-year-engineering/"}]
+  },
+  {
+    "id": "hod_electrical",
+    "questions": [
+      "Who is the HOD of Electrical Engineering at SBJITMR?",
+      "Who is the Electrical HOD?"
+    ],
+    "answer": "The Head of the Department of Electrical Engineering at S. B. Jain Institute of Technology, Management & Research (SBJITMR), Nagpur is Dr. Chandrakant Rathore. (Official source: Electrical Engineering department page — https://www.sbjit.edu.in/electrical-engineering/)",
+    "sources": [{"title": "Electrical Engineering Department Page", "url": "https://www.sbjit.edu.in/electrical-engineering/"}]
+  },
+  {
+    "id": "hod_etc",
+    "questions": [
+      "Who is the HOD of Electronics & Telecommunication Engineering (E&TC) at SBJITMR?",
+      "Who is the HOD of ETC?",
+      "Who is the HOD of E&TC?"
+    ],
+    "answer": "The Head of the Department of Electronics & Telecommunication Engineering at S. B. Jain Institute of Technology, Management & Research (SBJITMR), Nagpur is Dr. Abhay Kasetwar. (Official source: Electronics & Telecommunication Engineering department page — https://www.sbjit.edu.in/electronicsandtele/)",
+    "sources": [{"title": "Electronics & Telecommunication Department Page", "url": "https://www.sbjit.edu.in/electronicsandtele/"}]
+  },
+  {
+    "id": "hod_mba",
+    "questions": [
+      "Who is the HOD of MBA at SBJITMR?",
+      "Who is the MBA HOD?"
+    ],
+    "answer": "The official MBA page contains a ‘From The HoD's Desk’ heading but does not explicitly publish an HOD name. Therefore, the MBA HOD is NOT FOUND on the current official page. (Official source: https://www.sbjit.edu.in/mba/)",
+    "sources": [{"title": "MBA Department Page", "url": "https://www.sbjit.edu.in/mba/"}]
+  },
+  {
+    "id": "hod_mtech_cse",
+    "questions": [
+      "Who is the HOD of M.Tech CSE at SBJITMR?"
+    ],
+    "answer": "The official M.Tech CSE page contains a ‘From The HoD's Desk’ heading but does not explicitly publish an HOD name. Therefore, the M.Tech CSE HOD is NOT FOUND. (Official source: https://www.sbjit.edu.in/mtech-cse/)",
+    "sources": [{"title": "M.Tech CSE Department Page", "url": "https://www.sbjit.edu.in/mtech-cse/"}]
+  },
+  {
+    "id": "established_year",
+    "questions": [
+      "When was SBJITMR established?",
+      "When was S.B. Jain Institute of Technology established?",
+      "When was S.B. Jain Institute of Technology, Management & Research founded?",
+      "When did SBJITMR start?",
+      "What is the establishment year of SBJITMR?",
+      "How old is SBJITMR?",
+      "When was S.B. Jain Institute of Technology founded?",
+      "In which year was SBJITMR established?"
+    ],
+    "answer": "S.B. Jain Institute of Technology, Management & Research (SBJITMR) was established/founded in 2008 by the Sir Shantilal Badjate Charitable Trust, Nagpur.",
+    "sources": [{"title": "About SBJITMR", "url": "https://www.sbjit.edu.in/about-us/"}]
+  },
+  {
+    "id": "official_full_name",
+    "questions": [
+      "What is the official full name of SBJITMR?",
+      "What is the full name of the college?"
+    ],
+    "answer": "S. B. Jain Institute of Technology, Management & Research, Nagpur",
+    "sources": [{"title": "SBJITMR Official Website", "url": "https://www.sbjit.edu.in/"}]
+  },
+  {
+    "id": "short_name",
+    "questions": [
+      "What is the short name or abbreviation of SBJITMR?",
+      "What is the abbreviation?"
+    ],
+    "answer": "SBJITMR",
+    "sources": [{"title": "SBJITMR Official Website", "url": "https://www.sbjit.edu.in/"}]
+  },
+  {
+    "id": "founder",
+    "questions": [
+      "Who is the founder of SBJITMR?",
+      "Who founded SBJITMR?"
+    ],
+    "answer": "Late Shri Shantilal Badjate",
+    "sources": [{"title": "About SBJITMR", "url": "https://www.sbjit.edu.in/about-us/"}]
+  },
+  {
+    "id": "managing_trust",
+    "questions": [
+      "Which trust manages SBJITMR?",
+      "Who manages SBJITMR?",
+      "Trust"
+    ],
+    "answer": "Sir Shantilal Badjate Charitable Trust, Nagpur",
+    "sources": [{"title": "About SBJITMR", "url": "https://www.sbjit.edu.in/about-us/"}]
+  },
+  {
+    "id": "deans_all",
+    "questions": [
+      "Who is the Dean?",
+      "Who is dean?",
+      "Who is the dean at SBJITMR?",
+      "Who is dean at SBJITMR?",
+      "Who are the deans?",
+      "Who are the deans at SBJITMR?",
+      "Tell me about the deans",
+      "Deans",
+      "Dean"
+    ],
+    "answer": "S. B. Jain Institute of Technology, Management & Research (SBJITMR), Nagpur has dedicated deans heading different administrative and academic divisions:\n\n1. **Dean Academics:** **Dr. Pankaj B. Thote** (Email: `deanacademics@sbjit.edu.in`) — Oversees academic planning, curriculum implementation, and faculty development.\n2. **Dean Students Affairs:** **Dr. Yogesh P. Shinde** (Email: `deanstudentsaffairs@sbjit.edu.in`, Phone: `+91 9923280550`, `+91 8999300998`) — Oversees student council, clubs, extracurriculars, hostel affairs, and student welfare.\n3. **Dean Engineering:** **Dr. M. M. Raghuwanshi** — Oversees core engineering programs, accreditation standards, and academic regulations.\n\n(Official sources: Dean Academics — https://www.sbjit.edu.in/message-from-dean-academics/ ; Student Affairs — https://www.sbjit.edu.in/student-affairs/ ; Academic Council — https://www.sbjit.edu.in/academic-council/)",
+    "sources": [
+      {"title": "Dean Academics Page", "url": "https://www.sbjit.edu.in/message-from-dean-academics/"},
+      {"title": "Student Affairs Page", "url": "https://www.sbjit.edu.in/student-affairs/"},
+      {"title": "Academic Council Page", "url": "https://www.sbjit.edu.in/academic-council/"}
+    ]
+  },
+  {
+    "id": "dean_academics",
+    "questions": [
+      "Who is the dean of academics at SBJITMR?",
+      "Who is the Dean Academics?"
+    ],
+    "answer": "Dr. Pankaj B. Thote (email: deanacademics@sbjit.edu.in).",
+    "sources": [{"title": "Message from Dean Academics", "url": "https://www.sbjit.edu.in/message-from-dean-academics/"}]
+  },
+  {
+    "id": "dean_students_affairs",
+    "questions": [
+      "Who is the dean of students affairs at SBJITMR?",
+      "Who is the Dean Students Affairs?"
+    ],
+    "answer": "Dr. Yogesh P. Shinde (email: deanstudentsaffairs@sbjit.edu.in; phones: +91 9923280550, +91 8999300998).",
+    "sources": [{"title": "Student Affairs", "url": "https://www.sbjit.edu.in/student-affairs/"}]
+  },
+  {
+    "id": "governing_body",
+    "questions": [
+      "What is the governing body of SBJITMR?",
+      "Who is in the governing body?",
+      "Tell me about the college management."
+    ],
+    "answer": "Chairman: Mr. Anuj Badjate; Members include Mrs. Priti Badjate, Mr. Pradeep Bakliwal, Mr. Tushar Badjate, Mr. Sanjeev Agrawal, Dr. Sachin Solanki, Dr. Rajesh Pande, Mr. Arvind Kumar, Dr. Pankaj Thote, Dr. Abhay Kasetwar, Mr. Nilesh Gaulkar, Dr. Sanjay Badjate (Member Secretary & Principal).",
+    "sources": [{"title": "Governing Body", "url": "https://www.sbjit.edu.in/governing-body/"}]
+  },
+  {
+    "id": "academic_council",
+    "questions": [
+      "What is the academic council of SBJITMR?",
+      "Who is in the academic council?"
+    ],
+    "answer": "The official academic council page lists members, but the specific HOD for the Department of Management is Dr. Shrikrishna Dhale. Full details can be found on the Academic Council page.",
+    "sources": [{"title": "Academic Council", "url": "https://www.sbjit.edu.in/academic-council/"}]
+  },
+  {
+    "id": "board_of_studies",
+    "questions": [
+      "What is the board of studies of SBJITMR?",
+      "Board of Studies"
+    ],
+    "answer": "The board of studies information is not explicitly published on the current website pages.",
+    "sources": [{"title": "Board of Studies", "url": "https://www.sbjit.edu.in/board-of-studies/"}]
+  },
+  {
+    "id": "official_address",
+    "questions": [
+      "What is the official address of SBJITMR?",
+      "Where is SBJITMR located?",
+      "Address"
+    ],
+    "answer": "S. B. Jain Institute of Technology, Management & Research, Near Jain International School, Yerla Village, Kalmeshwar Road, Nagpur-441501",
+    "sources": [{"title": "Contact Us", "url": "https://www.sbjit.edu.in/contact-us/"}]
+  },
+  {
+    "id": "official_contact_numbers",
+    "questions": [
+      "What are the official contact numbers of SBJITMR?",
+      "What is the contact number?",
+      "What is the official contact number?"
+    ],
+    "answer": "+91 712 2667777, +91 9823218380, +91 9421802644 (Student Section Enquiry), +91 9764508160 (Student Verification Enquiry).",
+    "sources": [{"title": "Contact Us", "url": "https://www.sbjit.edu.in/contact-us/"}]
+  },
+  {
+    "id": "affiliation",
+    "questions": [
+      "What is the affiliation of SBJITMR?",
+      "Affiliation"
+    ],
+    "answer": "Affiliated to Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur.",
+    "sources": [{"title": "About SBJITMR", "url": "https://www.sbjit.edu.in/about-us/"}]
+  },
+  {
+    "id": "aicte_approval",
+    "questions": [
+      "Is SBJITMR AICTE approved?",
+      "AICTE approval"
+    ],
+    "answer": "Yes, approved by the All India Council for Technical Education, New Delhi.",
+    "sources": [{"title": "About SBJITMR", "url": "https://www.sbjit.edu.in/about-us/"}]
+  },
+  {
+    "id": "dte_recognition",
+    "questions": [
+      "Is SBJITMR recognized by DTE?",
+      "DTE recognition"
+    ],
+    "answer": "Yes, recognized by the Directorate of Technical Education, Maharashtra State.",
+    "sources": [{"title": "About SBJITMR", "url": "https://www.sbjit.edu.in/about-us/"}]
+  },
+  {
+    "id": "naac_status",
+    "questions": [
+      "What is the NAAC accreditation status of SBJITMR?",
+      "NAAC accreditation"
+    ],
+    "answer": "Accredited with NAAC 'A' Grade.",
+    "sources": [{"title": "About SBJITMR", "url": "https://www.sbjit.edu.in/about-us/"}]
+  },
+  {
+    "id": "autonomous_status",
+    "questions": [
+      "What is the autonomous status of SBJITMR?",
+      "Autonomous status"
+    ],
+    "answer": "Autonomous from Academic Session 2020‑21, granted by UGC and RTMNU.",
+    "sources": [{"title": "About SBJITMR", "url": "https://www.sbjit.edu.in/about-us/"}]
+  },
+  {
+    "id": "nba_accreditation",
+    "questions": [
+      "Does SBJITMR have NBA accreditation?",
+      "NBA accreditation"
+    ],
+    "answer": "NBA accreditation is not stated on the current official pages.",
+    "sources": [{"title": "About SBJITMR", "url": "https://www.sbjit.edu.in/about-us/"}]
+  },
+  {
+    "id": "minority_status",
+    "questions": [
+      "What is the minority status of SBJITMR?",
+      "Minority status"
+    ],
+    "answer": "Self‑financed Hindi linguistic minority institute.",
+    "sources": [{"title": "About SBJITMR", "url": "https://www.sbjit.edu.in/about-us/"}]
+  },
+  {
+    "id": "btech_admission_process",
+    "questions": [
+      "What is the B.Tech admission process and eligibility at SBJITMR?",
+      "What is the admission process?",
+      "B.Tech eligibility"
+    ],
+    "answer": "For AY 2024-25, B.Tech admissions at SBJITMR, Nagpur are based on MHT-CET and JEE Main. Eligibility (Maharashtra state candidature): Indian citizen; passed 10+2/equivalent with Physics and Mathematics as compulsory subjects plus one listed qualifying subject, with a minimum of 45% in the specified subjects together (40% for Maharashtra State reserved-category/EWS/PwD candidates); must have appeared in all PCM MHT-CET 2024 subjects and obtained a non-zero score. Alternative qualifications: a minimum three-year Engineering and Technology diploma with 45% marks (40% for the stated reserved/EWS/PwD candidates), or a three-year D.Voc. in the same/allied sector. (Official source: SBJITMR Mandatory Disclosure 2024-25 — https://www.sbjit.edu.in/wp-content/uploads/2024/12/Mandatory-Disclosure-2024-25-Final.pdf)",
+    "sources": [{"title": "Mandatory Disclosure 2024-25", "url": "https://www.sbjit.edu.in/wp-content/uploads/2024/12/Mandatory-Disclosure-2024-25-Final.pdf"}]
+  },
+  {
+    "id": "mtech_admission_process",
+    "questions": [
+      "What is the M.Tech admission process and eligibility at SBJITMR?"
+    ],
+    "answer": "For AY 2024-25, M.Tech (Electronics Engineering) admissions at SBJITMR, Nagpur are based on GATE (and GPAT for the relevant pharmacy field). Eligibility: Indian citizen; a bachelor degree in the relevant Engineering and Technology or Pharmacy field from an AICTE/Central/State Government-approved institution (or equivalent) with at least 50% (45% for the stated Maharashtra reserved-category/EWS/PwD candidates); must meet the relevant-course eligibility prescribed by the concerned university. GATE/GPAT-qualified candidates receive preference over non-qualified candidates, followed by candidates who did not appear for GATE/GPAT. (Official source: SBJITMR Mandatory Disclosure 2024-25 — https://www.sbjit.edu.in/wp-content/uploads/2024/12/Mandatory-Disclosure-2024-25-Final.pdf)",
+    "sources": [{"title": "Mandatory Disclosure 2024-25", "url": "https://www.sbjit.edu.in/wp-content/uploads/2024/12/Mandatory-Disclosure-2024-25-Final.pdf"}]
+  },
+  {
+    "id": "mba_admission_process",
+    "questions": [
+      "What is the MBA admission process and eligibility at SBJITMR?"
+    ],
+    "answer": "For AY 2024-25, MBA admissions at SBJITMR, Nagpur accept scores in MAH-MBA/MMS-CET, CAT, CMAT, XAT, ATMA, MAT and GMAT. Eligibility (Maharashtra state candidature): Indian citizen; a minimum three-year bachelor degree in any discipline from a UGC or AIU recognized university with at least 50% aggregate/equivalent (45% for the stated Maharashtra State reserved-category/EWS/PwD candidates); a non-zero score in MAH-MBA/MMS-CET 2024. All-India/Jammu and Kashmir/Ladakh migrant candidature: same degree requirement plus a non-zero positive score in one of the listed exams. (Official source: SBJITMR Mandatory Disclosure 2024-25 — https://www.sbjit.edu.in/wp-content/uploads/2024/12/Mandatory-Disclosure-2024-25-Final.pdf)",
+    "sources": [{"title": "Mandatory Disclosure 2024-25", "url": "https://www.sbjit.edu.in/wp-content/uploads/2024/12/Mandatory-Disclosure-2024-25-Final.pdf"}]
+  },
+  {
+    "id": "fee_structure_all",
+    "questions": [
+      "What is the fee structure for B.Tech, MBA and M.Tech at SBJITMR?",
+      "What are the fees?",
+      "Fee structure"
+    ],
+    "answer": "For AY 2024-25, the officially published programme-level fees at SBJITMR, Nagpur are: B.Tech — ₹1,13,500; MBA — ₹92,000; M.Tech — ₹44,306. The official disclosure does not publish a detailed charge-type breakdown (tuition vs development vs hostel, etc.) for these figures. Fees for BCA, BBA and MCA are NOT published in the latest official disclosure. (Official source: SBJITMR Mandatory Disclosure 2024-25 — https://www.sbjit.edu.in/wp-content/uploads/2024/12/Mandatory-Disclosure-2024-25-Final.pdf)",
+    "sources": [{"title": "Mandatory Disclosure 2024-25", "url": "https://www.sbjit.edu.in/wp-content/uploads/2024/12/Mandatory-Disclosure-2024-25-Final.pdf"}]
+  },
+  {
+    "id": "fees_mca_bca_bba",
+    "questions": [
+      "What are the admission eligibility and fees for MCA, BCA and BBA at SBJITMR?"
+    ],
+    "answer": "The latest official SBJITMR disclosure (AY 2024-25) does not publish admission eligibility, accepted exams or fees for MCA, BCA or BBA. I could not verify this information from the official SBJITMR sources available to me. Please check the official SBJITMR website or contact the college for the latest details. (Official source: SBJITMR Mandatory Disclosure 2024-25 — https://www.sbjit.edu.in/wp-content/uploads/2024/12/Mandatory-Disclosure-2024-25-Final.pdf)",
+    "sources": [{"title": "Mandatory Disclosure 2024-25", "url": "https://www.sbjit.edu.in/wp-content/uploads/2024/12/Mandatory-Disclosure-2024-25-Final.pdf"}]
+  },
+  {
+    "id": "exam_form_submission",
+    "questions": [
+      "How do I submit my exam form at SBJITMR?",
+      "Exam form registration",
+      "How to submit exam form"
+    ],
+    "answer": "Exam forms at SBJITMR, Nagpur are submitted online: go to the college website, Exam Cell, then Exam Form Registration. For first login, use your USN/PRN as both Login ID and Password, then change the password and log in again. Regular students use Exam Registration to check registered courses; backlog students use Backlog Course Registration to select courses. Check the applicable examination fees, accept the agreement, and pay via UPI/scanner, cards or net banking. After successful payment, download/print the examination form and fee receipt, sign both, and submit them to the respective department. Backlog students must submit a separate examination form for each semester. Forms and fees must be submitted by the notified dates; late and super-late fees apply after the normal deadline, and forms are not accepted after the super-late-fee deadline. (Official sources: https://www.sbjit.edu.in/wp-content/uploads/2025/03/ONLINE-EXAMINATION-FORM-SUBMISSION-PROCESS.pdf; https://www.sbjit.edu.in/wp-content/uploads/2023/09/SBJIT-Exam-Manual_2023-%E2%80%93-24-NEP.pdf)",
+    "sources": [
+      {"title": "Online Examination Form Submission Process", "url": "https://www.sbjit.edu.in/wp-content/uploads/2025/03/ONLINE-EXAMINATION-FORM-SUBMISSION-PROCESS.pdf"},
+      {"title": "SBJIT Exam Manual", "url": "https://www.sbjit.edu.in/wp-content/uploads/2023/09/SBJIT-Exam-Manual_2023-%E2%80%93-24-NEP.pdf"}
+    ]
+  },
+  {
+    "id": "exam_results_portal",
+    "questions": [
+      "Where can I check my exam results at SBJITMR?",
+      "Where can I check results?",
+      "Where can I see exam results?",
+      "Exam results"
+    ],
+    "answer": "Exam results at SBJITMR, Nagpur are available on the official results portal: https://result.sbjit.edu.in/online_results/ . Enter your USN and date of birth to view your result/SGPA/CGPA. (Official source: https://result.sbjit.edu.in/online_results/)",
+    "sources": [{"title": "Online Results Portal", "url": "https://result.sbjit.edu.in/online_results/"}]
+  },
+  {
+    "id": "revaluation_process",
+    "questions": [
+      "How does the revaluation process work at SBJITMR?",
+      "Revaluation process",
+      "Open day process"
+    ],
+    "answer": "If you are dissatisfied with your End Semester Examination valuation at SBJITMR, Nagpur, first raise specific points with the course faculty during the published transparency/Open Day process. For an unvalued answer or an error in totaling marks, submit Grievance Form 1 to the Student Section. For revision of marks/reassessment, submit Grievance Form 2 to the Student Section after paying the prescribed fee; a valuer other than the first valuer then re-evaluates the answer sheet. Revaluated marks become final only if the difference is at least +/-5% of the total marks of that examination; otherwise there is no change in marks. Applications must be submitted by the dates in the COE notification. The exact revaluation fee amount is not published on the official pages. (Official sources: https://www.sbjit.edu.in/wp-content/uploads/2023/09/SBJIT-Exam-Manual_2023-%E2%80%93-24-NEP.pdf; https://www.sbjit.edu.in/wp-content/uploads/2025/03/14.Open-Day-MBA-I-Sem_Resit-Winter-24.pdf)",
+    "sources": [
+      {"title": "SBJIT Exam Manual", "url": "https://www.sbjit.edu.in/wp-content/uploads/2023/09/SBJIT-Exam-Manual_2023-%E2%80%93-24-NEP.pdf"},
+      {"title": "Open Day Notice", "url": "https://www.sbjit.edu.in/wp-content/uploads/2025/03/14.Open-Day-MBA-I-Sem_Resit-Winter-24.pdf"}
+    ]
+  },
+  {
+    "id": "academic_calendar",
+    "questions": [
+      "What is the academic calendar at SBJITMR?",
+      "Academic calendar"
+    ],
+    "answer": "The academic calendar for SBJITMR, Nagpur is available on the official website. End-semester examinations commence according to the academic calendar and the timetable prepared by the Controller of Examinations (COE). Please check the latest academic calendar on the official SBJITMR website for the current year dates. (Official source: https://www.sbjit.edu.in/academic-calendar)",
+    "sources": [{"title": "Academic Calendar", "url": "https://www.sbjit.edu.in/academic-calendar"}]
+  },
+  {
+    "id": "intake_cse_core",
+    "questions": [
+      "What is the intake of CSE (core) at SBJITMR?",
+      "What is the intake of CSE?",
+      "intake of cse core",
+      "intake of cse"
+    ],
+    "answer": "The sanctioned intake for the core Computer Science & Engineering (CSE) programme is 240 seats (2026‑27). Official source: https://sbjit.edu.in/direct-second-year-admissions-dsy/",
+    "sources": [{"title": "Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"}]
+  },
+  {
+    "id": "intake_cse_aiml",
+    "questions": [
+      "What is the intake of CSE (AI & ML) at SBJITMR?",
+      "What is the intake of AI & ML?",
+      "What is the intake of CSE (AIML) at SBJITMR?",
+      "intake of cse aiml",
+      "intake of aiml"
+    ],
+    "answer": "The sanctioned intake for the Computer Science & Engineering (Artificial Intelligence & Machine Learning) programme is 120 seats (2026‑27). Official source: https://sbjit.edu.in/direct-second-year-admissions-dsy/",
+    "sources": [{"title": "Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"}]
+  },
+  {
+    "id": "intake_cse_ds",
+    "questions": [
+      "What is the intake of CSE (Data Science) at SBJITMR?",
+      "What is the intake of Data Science?",
+      "intake of data science",
+      "intake of cse ds"
+    ],
+    "answer": "The sanctioned intake for the Computer Science & Engineering (Data Science) programme is 120 seats (2026‑27). Official source: https://sbjit.edu.in/direct-second-year-admissions-dsy/",
+    "sources": [{"title": "Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"}]
+  },
+  {
+    "id": "intake_etc",
+    "questions": [
+      "What is the intake of E&TC at SBJITMR?",
+      "What is the intake of ETC?",
+      "What is the intake of Electronics & Telecommunication?"
+    ],
+    "answer": "The sanctioned intake for the Electronics & Telecommunication Engineering (E&TC) programme is 60 seats (2026‑27). Official source: https://sbjit.edu.in/direct-second-year-admissions-dsy/",
+    "sources": [{"title": "Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"}]
+  },
+  {
+    "id": "intake_electrical",
+    "questions": [
+      "What is the intake of Electrical Engineering at SBJITMR?",
+      "What is the intake of Electrical?"
+    ],
+    "answer": "The sanctioned intake for the Electrical Engineering programme is 30 seats (2026‑27). Official source: https://sbjit.edu.in/direct-second-year-admissions-dsy/",
+    "sources": [{"title": "Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"}]
+  },
+  {
+    "id": "intake_mechanical",
+    "questions": [
+      "What is the intake of Mechanical Engineering at SBJITMR?",
+      "What is the intake of Mechanical?"
+    ],
+    "answer": "The sanctioned intake for the Mechanical Engineering programme is 30 seats (2026‑27). Official source: https://sbjit.edu.in/direct-second-year-admissions-dsy/",
+    "sources": [{"title": "Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"}]
+  },
+  {
+    "id": "intake_first_year",
+    "questions": [
+      "What is the intake of First Year Engineering at SBJITMR?",
+      "What is the intake of First Year?"
+    ],
+    "answer": "The sanctioned intake for the First Year Engineering programme is 240 seats (2026‑27). Official source: https://sbjit.edu.in/direct-second-year-admissions-dsy/",
+    "sources": [{"title": "Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"}]
+  },
+  {
+    "id": "intake_bca",
+    "questions": [
+      "What is the intake of BCA at SBJITMR?",
+      "What is the intake of BCA?"
+    ],
+    "answer": "The sanctioned intake for the Bachelor of Computer Applications (BCA) programme is 120 seats (2026‑27). Official source: https://sbjit.edu.in/direct-second-year-admissions-dsy/",
+    "sources": [{"title": "Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"}]
+  },
+  {
+    "id": "intake_mca",
+    "questions": [
+      "What is the intake of MCA at SBJITMR?",
+      "What is the intake of MCA?"
+    ],
+    "answer": "The sanctioned intake for the Master of Computer Applications (MCA) programme is 24 seats (2026‑27). Official source: https://sbjit.edu.in/direct-second-year-admissions-dsy/",
+    "sources": [{"title": "Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"}]
+  },
+  {
+    "id": "intake_mba",
+    "questions": [
+      "What is the intake of MBA at SBJITMR?",
+      "What is the intake of MBA?"
+    ],
+    "answer": "The sanctioned intake for the Master of Business Administration (MBA) programme is NOT FOUND on the official page for 2026‑27. The page contains a ‘From The HoD's Desk’ heading but does not publish a specific seat count.",
+    "sources": [{"title": "MBA Department Page", "url": "https://www.sbjit.edu.in/mba/"}]
+  },
+  {
+    "id": "intake_btech_total",
+    "questions": [
+      "What is the total B.Tech intake at SBJITMR?",
+      "Total B.Tech intake"
+    ],
+    "answer": "The total sanctioned intake for all B.Tech programmes is 720 seats (2026‑27). Official source: https://sbjit.edu.in/direct-second-year-admissions-dsy/",
+    "sources": [{"title": "Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"}]
+  },
+  {
+    "id": "intake_college_total",
+    "questions": [
+      "What is the total college intake at SBJITMR?",
+      "Total college intake"
+    ],
+    "answer": "The total sanctioned intake for all programmes (including B.Tech, BCA, MCA, etc.) is 720 seats for B.Tech plus additional seats for other programmes as listed above (2026‑27).",
+    "sources": [{"title": "Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"}]
+  },
+  {
+    "id": "latest_admission_notice",
+    "questions": [
+      "What is the latest admission notice published by SBJITMR?",
+      "Latest admission notice"
+    ],
+    "answer": "The latest official admission notices for the 2026–27 academic session are published on SBJITMR’s official B.Tech First-Year page: https://www.sbjit.edu.in/b-tech-first-year/ . The notices listed there include “Admission against CAP Vacancy (A-Cap) Notification (Admission Notification 2026-27)” and “Institute Level (IL) Admission Notification” (2026–27), and the “Admission Request Form 2026-2027” is available to download there. For the current/most recent notice, always refer to that official page.",
+    "sources": [{"title": "B.Tech First Year Admission Page", "url": "https://www.sbjit.edu.in/b-tech-first-year/"}]
+  },
+  {
+    "id": "faculty_aniket_bhoyar",
+    "questions": [
+      "Who is Aniket Bhoyar?",
+      "Who is Prof. Aniket Bhoyar?",
+      "Who is Mr. Aniket Bhoyar?",
+      "Aniket Bhoyar",
+      "who is aniket bhoyar he is cse faculty",
+      "Aniket Bhoyar CSE faculty"
+    ],
+    "answer": "Prof. Aniket Bhoyar is an Assistant Professor in the Department of Computer Science & Engineering (CSE) at S. B. Jain Institute of Technology, Management & Research (SBJITMR), Nagpur. He holds an M.Tech in Computer Science & Engineering and teaches core computing courses, mentors student projects, and conducts research in areas including deepfake detection and generative systems. (Official sources: CSE Department — https://www.sbjit.edu.in/computer-science-and-engineering/ ; Official NIRF Disclosures — https://www.sbjit.edu.in/)",
+    "sources": [
+      {"title": "CSE Department Faculty", "url": "https://www.sbjit.edu.in/computer-science-and-engineering/"},
+      {"title": "Official SBJITMR Website", "url": "https://www.sbjit.edu.in/"}
+    ]
+  },
+  {
+    "id": "direct_second_year_admission",
+    "questions": [
+      "Can a student take admission in direct second year if they did a diploma?",
+      "Can diploma students get admission in direct second year?",
+      "Direct second year admission process",
+      "DSY admission eligibility",
+      "Direct second year B.Tech admission",
+      "Lateral entry admission eligibility",
+      "Can I join SBJITMR after diploma in engineering?"
+    ],
+    "answer": "Yes, diploma holders can take admission directly into the second year of B.Tech (Lateral Entry / DSY) at S. B. Jain Institute of Technology, Management & Research (SBJITMR), Nagpur (DTE Code: 4197).\n\nEligibility:\n- Passed a minimum 3-year Diploma in Engineering and Technology from an AICTE-approved institution with at least 45% aggregate marks (40% marks for backward class categories, EWS, and PwD candidates belonging to Maharashtra State).\n- Alternatively, passed a B.Sc. Degree from a UGC-recognized university with at least 45% marks (40% for reserved category) with Mathematics at 10+2 level.\n\nAdmission Process:\n- Admissions are conducted through the Centralized Admission Process (CAP) rounds administered by the State Common Entrance Test Cell, Maharashtra (cetcell.mahacet.org).\n\nHelpline:\n- Admission Incharge: Dr. Yogesh Shinde (+91-8999300998 / +91-9923280550)\n- Email: admission@sbjit.edu.in\n(Official source: SBJITMR DSY Admissions — https://sbjit.edu.in/direct-second-year-admissions-dsy/ ; https://www.sbjit.edu.in/admission/)",
+    "sources": [
+      {"title": "SBJITMR Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"},
+      {"title": "Official SBJITMR Admissions Guide", "url": "https://www.sbjit.edu.in/admission/"}
+    ]
+  }
+]

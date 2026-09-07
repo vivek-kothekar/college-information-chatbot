@@ -1,0 +1,143 @@
+{
+  "official_website": {
+    "title": "Official SBJITMR Website",
+    "url": "https://www.sbjit.edu.in/",
+    "description": "Primary institutional portal"
+  },
+  "admissions": [
+    {
+      "title": "Admissions Overview",
+      "url": "https://www.sbjit.edu.in/admission/"
+    },
+    {
+      "title": "Degree Programs Offered",
+      "url": "https://www.sbjit.edu.in/programs/"
+    },
+    {
+      "title": "Admission Helpline & Contacts",
+      "url": "https://www.sbjit.edu.in/admissionhelpline/"
+    },
+    {
+      "title": "NEFT Bank Account Details for Fee Payment",
+      "url": "https://www.sbjit.edu.in/neft-details/"
+    },
+    {
+      "title": "Maharashtra State CET Cell CAP Portal",
+      "url": "https://cetcell.mahacet.org/"
+    }
+  ],
+  "examinations": [
+    {
+      "title": "Autonomous Exam Cell",
+      "url": "https://www.sbjit.edu.in/exam-cell/"
+    },
+    {
+      "title": "Examination Time Tables",
+      "url": "https://www.sbjit.edu.in/exam-cell/exam-time-table/"
+    },
+    {
+      "title": "Semester Examination Results",
+      "url": "https://www.sbjit.edu.in/exam-cell/exam-results/"
+    },
+    {
+      "title": "Exam Form Notices & Registration",
+      "url": "https://www.sbjit.edu.in/exam-cell/exam-form-notices/"
+    },
+    {
+      "title": "Revaluation & Open Day Results",
+      "url": "https://www.sbjit.edu.in/exam-cell/revaluation-result/"
+    },
+    {
+      "title": "CGPA to Percentage Conversion Notification",
+      "url": "https://www.sbjit.edu.in/exam-cell/cgpa-to-percentage-conversion/"
+    }
+  ],
+  "placements": [
+    {
+      "title": "Training & Placement Cell",
+      "url": "https://www.sbjit.edu.in/placements/"
+    },
+    {
+      "title": "Corporate Recruiters List",
+      "url": "https://www.sbjit.edu.in/recruiters/"
+    },
+    {
+      "title": "T&P Team & Coordinators",
+      "url": "https://www.sbjit.edu.in/training-placement-cell/"
+    }
+  ],
+  "academics_and_departments": [
+    {
+      "title": "Department of Computer Science & Engineering",
+      "url": "https://www.sbjit.edu.in/computer-science-and-engineering/"
+    },
+    {
+      "title": "Department of CSE (AI & ML)",
+      "url": "https://www.sbjit.edu.in/emerging-technologies/"
+    },
+    {
+      "title": "Department of CSE (Data Science)",
+      "url": "https://www.sbjit.edu.in/cseds-home/"
+    },
+    {
+      "title": "Department of Electrical Engineering",
+      "url": "https://www.sbjit.edu.in/electrical-engineering/"
+    },
+    {
+      "title": "Department of Electronics & Telecommunication",
+      "url": "https://www.sbjit.edu.in/electronicsandtele/"
+    },
+    {
+      "title": "Department of Mechanical Engineering",
+      "url": "https://www.sbjit.edu.in/mechanical-engineering/"
+    },
+    {
+      "title": "Department of First Year Engineering",
+      "url": "https://www.sbjit.edu.in/first-year-engineering/"
+    },
+    {
+      "title": "Department of Management Studies (MBA)",
+      "url": "https://www.sbjit.edu.in/mba/"
+    }
+  ],
+  "scholarships": [
+    {
+      "title": "Student Scholarship Guide",
+      "url": "https://www.sbjit.edu.in/student-scholarship/"
+    },
+    {
+      "title": "MahaDBT Scholarship Portal (Government of Maharashtra)",
+      "url": "https://mahadbtmahait.gov.in"
+    },
+    {
+      "title": "National Scholarship Portal (Government of India)",
+      "url": "https://scholarship.gov.in"
+    }
+  ],
+  "campus_facilities": [
+    {
+      "title": "S. B. Jain Central Library",
+      "url": "https://www.sbjit.edu.in/s-b-jain-library/"
+    },
+    {
+      "title": "College Bus Transportation Facility",
+      "url": "https://www.sbjit.edu.in/transportation/"
+    },
+    {
+      "title": "Sports Cell & Gymnasium",
+      "url": "https://www.sbjit.edu.in/sports/"
+    },
+    {
+      "title": "Student Affairs Cell",
+      "url": "https://www.sbjit.edu.in/student-affairs/"
+    },
+    {
+      "title": "Student Grievance Redressal Cell",
+      "url": "https://www.sbjit.edu.in/student-grievance-redressal-cell/"
+    },
+    {
+      "title": "Contact Us & Campus Location",
+      "url": "https://www.sbjit.edu.in/contact-us/"
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "computer_science_and_engineering": [
+    {
+      "name": "Dr. Anup Gade",
+      "designation": "Associate Professor & HOD",
+      "department": "Computer Science & Engineering",
+      "qualification": "Ph.D., M.Tech (CSE), B.E. (CSE)",
+      "email": "hodcse@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/computer-science-and-engineering/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "name": "Dr. Rashmi Jain",
+      "designation": "Associate Professor",
+      "department": "Computer Science & Engineering",
+      "qualification": "Ph.D., M.Tech (CSE)",
+      "email": "rashmijain@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/computer-science-and-engineering/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "name": "Dr. Manish Mahesh Goswami",
+      "designation": "Associate Professor",
+      "department": "Computer Science & Engineering",
+      "qualification": "Ph.D., M.Tech (CSE)",
+      "email": "manishgoswami@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/computer-science-and-engineering/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "name": "Dr. Roshani Talmale",
+      "designation": "Associate Professor",
+      "department": "Computer Science & Engineering",
+      "qualification": "Ph.D., M.Tech (CSE)",
+      "email": "roshanitalmale@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/computer-science-and-engineering/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "name": "Dr. Bhushan Mahendra Manjre",
+      "designation": "Associate Professor",
+      "department": "Computer Science & Engineering",
+      "qualification": "Ph.D., M.Tech (CSE)",
+      "email": "bhushanmanjre@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/computer-science-and-engineering/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "name": "Mr. Yogesh Ramkrishna Katre",
+      "designation": "Assistant Professor & T&P Coordinator",
+      "department": "Computer Science & Engineering",
+      "qualification": "M.Tech (CSE)",
+      "email": "katreyogesh@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/computer-science-and-engineering/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "name": "Mr. Abhijeet Thakur",
+      "designation": "Assistant Professor & T&P Coordinator",
+      "department": "Computer Science & Engineering",
+      "qualification": "M.Tech (CSE)",
+      "email": "abhijeetthakur@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/computer-science-and-engineering/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "name": "Mr. Ratnesh Chaoudhary",
+      "designation": "Assistant Professor",
+      "department": "Computer Science & Engineering",
+      "qualification": "M.Tech (CSE)",
+      "email": "ratneshchaoudhary@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/computer-science-and-engineering/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "name": "Mr. Prasanna Arun Lohe",
+      "designation": "Assistant Professor",
+      "department": "Computer Science & Engineering",
+      "qualification": "M.Tech (CSE)",
+      "email": "prasannalohe@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/computer-science-and-engineering/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "name": "Mrs. Komal Parate",
+      "designation": "Assistant Professor",
+      "department": "Computer Science & Engineering",
+      "qualification": "M.Tech (CSE)",
+      "email": "komalparate@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/computer-science-and-engineering/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "name": "Ms. Suchita Surendra Mesakar",
+      "designation": "Associate Professor",
+      "department": "Computer Science & Engineering",
+      "qualification": "M.Tech (CSE)",
+      "email": "suchitamesakar@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/computer-science-and-engineering/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "name": "Mr. Aniket Bhoyar",
+      "designation": "Assistant Professor",
+      "department": "Computer Science & Engineering",
+      "qualification": "M.Tech (CSE)",
+      "email": "aniketbhoyar@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/computer-science-and-engineering/",
+      "last_verified": "2026-09-07"
+    }
+  ],
+  "cse_emerging_technologies": [
+    {
+      "name": "Dr. Animesh Tayal",
+      "designation": "Associate Professor & HOD",
+      "department": "CSE (Artificial Intelligence & Machine Learning)",
+      "qualification": "Ph.D., M.Tech (CSE)",
+      "email": "hodaiml@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/emerging-technologies/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "name": "Dr. Dipak W. Wajgi",
+      "designation": "Associate Professor & HOD",
+      "department": "CSE (Data Science)",
+      "qualification": "Ph.D., M.Tech (CSE)",
+      "email": "hodds@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/cseds-home/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "name": "Mr. Nikhil Sakhare",
+      "designation": "Assistant Professor & T&P Coordinator",
+      "department": "CSE (AI & ML / Emerging Tech)",
+      "qualification": "M.Tech (CSE)",
+      "email": "nikhilsakhre@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/emerging-technologies/",
+      "last_verified": "2026-09-07"
+    }
+  ],
+  "mechanical_engineering": [
+    {
+      "name": "Dr. Harish Bhatkulkar",
+      "designation": "Associate Professor & HOD",
+      "department": "Mechanical Engineering",
+      "qualification": "Ph.D., M.Tech (Mechanical)",
+      "email": "hodmech@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/mechanical-engineering/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "name": "Mr. Sarvesh Kiran Biyani",
+      "designation": "Assistant Professor & Admission Coordinator",
+      "department": "Mechanical Engineering",
+      "qualification": "M.Tech (Mechanical)",
+      "email": "sarveshbiyani@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/mechanical-engineering/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "name": "Dr. Faisal Shazad Hussain",
+      "designation": "Assistant Professor",
+      "department": "Mechanical Engineering",
+      "qualification": "Ph.D., M.Tech (Mechanical)",
+      "email": "faisalhussain@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/mechanical-engineering/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "name": "Mr. Ajay Anantrao Joshi",
+      "designation": "Assistant Professor & Sports Coordinator",
+      "department": "Mechanical Engineering",
+      "qualification": "M.Tech (Mechanical)",
+      "email": "ajayjoshi@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/mechanical-engineering/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "name": "Mr. Pankaj Harnarayan Jaiswal",
+      "designation": "Assistant Professor & Controller of Examinations",
+      "department": "Mechanical Engineering",
+      "qualification": "M.Tech (Mechanical)",
+      "email": "coesbjain@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/mechanical-engineering/",
+      "last_verified": "2026-09-07"
+    }
+  ],
+  "electrical_engineering": [
+    {
+      "name": "Dr. Chandrakant Rathore",
+      "designation": "Assistant Professor & HOD",
+      "department": "Electrical Engineering",
+      "qualification": "Ph.D., M.Tech (Electrical)",
+      "email": "hodee@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/electrical-engineering/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "name": "Dr. Pankaj B. Thote",
+      "designation": "Professor & Dean Academics",
+      "department": "Electrical Engineering",
+      "qualification": "Ph.D., M.Tech (Electrical)",
+      "email": "deanacademics@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/electrical-engineering/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "name": "Mr. Saurabh K. Singh",
+      "designation": "Assistant Professor",
+      "department": "Electrical Engineering",
+      "qualification": "M.Tech (Electrical)",
+      "email": "saurabhsingh@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/electrical-engineering/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "name": "Mr. Vishant G. Naik",
+      "designation": "Assistant Professor & T&P Member",
+      "department": "Electrical Engineering",
+      "qualification": "M.Tech (Electrical)",
+      "email": "vishantnaik@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/electrical-engineering/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "name": "Dr. Akshay Deshmukh",
+      "designation": "Assistant Professor",
+      "department": "Electrical Engineering",
+      "qualification": "Ph.D., M.Tech (Electrical)",
+      "email": "akshaydeshmukh@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/electrical-engineering/",
+      "last_verified": "2026-09-07"
+    }
+  ],
+  "electronics_and_telecommunication": [
+    {
+      "name": "Dr. Abhay Kasetwar",
+      "designation": "Associate Professor & HOD",
+      "department": "Electronics & Telecommunication",
+      "qualification": "Ph.D., M.Tech (ETC)",
+      "email": "hodetc@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/electronicsandtele/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "name": "Mr. Irfan Javed",
+      "designation": "Assistant Professor & T&P Member",
+      "department": "Electronics & Telecommunication",
+      "qualification": "M.Tech (ETC)",
+      "email": "irfanjaved@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/electronicsandtele/",
+      "last_verified": "2026-09-07"
+    }
+  ],
+  "management_mba": [
+    {
+      "name": "Dr. Shrikrishna Dhale",
+      "designation": "Associate Professor & HOD",
+      "department": "Master of Business Administration",
+      "qualification": "Ph.D., MBA",
+      "email": "hodmba@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/mba/",
+      "last_verified": "2026-09-07"
+    }
+  ],
+  "first_year_engineering": [
+    {
+      "name": "Mr. Vinod Suple",
+      "designation": "Assistant Professor & HOD",
+      "department": "First Year Engineering",
+      "qualification": "M.Sc., M.Phil",
+      "email": "hodfye@sbjit.edu.in",
+      "source": "https://www.sbjit.edu.in/first-year-engineering/",
+      "last_verified": "2026-09-07"
+    }
+  ]
+}

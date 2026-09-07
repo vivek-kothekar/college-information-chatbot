@@ -1,0 +1,94 @@
+{
+  "academic_council": {
+    "name": "Academic Council of SBJITMR",
+    "chairman": "Prof. (Dr.) Sanjay L. Badjate (Principal & Chairman)",
+    "member_secretary": "Dr. (Mrs.) Rupali Kelkar",
+    "composition": [
+      { "sr": 1, "name": "Prof. (Dr.) Sanjay L. Badjate", "category": "Principal & Chairman" },
+      { "sr": 2, "name": "Dr. S.B. Bodkhe", "category": "University Nominee (RTMNU)" },
+      { "sr": 3, "name": "Dr. S.V. Sonekar", "category": "University Nominee (RTMNU)" },
+      { "sr": 4, "name": "Dr. U.D. Gulhane", "category": "University Nominee (RTMNU)" },
+      { "sr": 5, "name": "Dr. Mahendra Kadu", "category": "University Nominee (RTMNU)" },
+      { "sr": 6, "name": "Dr. Abhijeet Agashe", "category": "Educationalist" },
+      { "sr": 7, "name": "Dr. Rajendra Patrikar", "category": "Educationalist (VNIT Nagpur)" },
+      { "sr": 8, "name": "Mr. Sandeep Darwhekar", "category": "Industry Representative" },
+      { "sr": 9, "name": "Mr. Ranjit Singh", "category": "Industry Representative" },
+      { "sr": 10, "name": "Dr. Chandrakant Rathore", "category": "HOD, Dept. of Electrical Engg." },
+      { "sr": 11, "name": "Dr. Abhay Kasetwar", "category": "HOD, Dept. of Electronics & Telecommunication Engg." },
+      { "sr": 12, "name": "Dr. Mrudula Nimbarte / Dr. Anup Gade", "category": "HOD, Dept. of Computer Science & Engg." },
+      { "sr": 13, "name": "Dr. Harish Bhatkulkar", "category": "HOD, Dept. of Mechanical Engg." },
+      { "sr": 14, "name": "Dr. Hemant Turkar", "category": "HOD, Dept. of Emerging Technologies (AI&DS and AI&ML)" },
+      { "sr": 15, "name": "Dr. Shrikrishna Dhale", "category": "HOD, Dept. of Management (MBA)" },
+      { "sr": 16, "name": "Mr. Vinod Suple", "category": "HOD, Dept. of First Year Engg. & COE" },
+      { "sr": 17, "name": "Dr. M. M. Raghuwanshi", "category": "Dean Engineering & Teacher's Representative" },
+      { "sr": 18, "name": "Dr. Pankaj Thote", "category": "Dean Academics & Teacher's Representative" },
+      { "sr": 19, "name": "Dr. Mohammad Wasim Khanooni", "category": "Teacher's Representative" },
+      { "sr": 20, "name": "Dr. Roshani Talmale", "category": "Teacher's Representative" },
+      { "sr": 21, "name": "Dr. (Mrs.) Rupali Kelkar", "category": "Member Secretary" }
+    ],
+    "powers_and_responsibilities": [
+      "Scrutinize and approve academic regulations, curricula, and syllabi proposed by Boards of Studies.",
+      "Prescribe admission criteria in accordance with Government guidelines.",
+      "Recommend institution of new degree programs to the Governing Body.",
+      "Advise the Governing Body on all academic matters."
+    ],
+    "source": "https://www.sbjit.edu.in/academic-council/",
+    "last_verified": "2026-09-07"
+  },
+  "governing_body": {
+    "name": "Governing Body",
+    "chairman": "Mr. Anuj Badjate",
+    "members": [
+      "Mrs. Priti Badjate",
+      "Mr. Pradeep Bakliwal",
+      "Mr. Tushar Badjate",
+      "Mr. Sanjeev Agrawal",
+      "Dr. Sachin Solanki",
+      "Dr. Rajesh Pande",
+      "Mr. Arvind Kumar",
+      "Dr. Pankaj Thote",
+      "Dr. Abhay Kasetwar",
+      "Mr. Nilesh Gaulkar",
+      "Dr. Sanjay Badjate (Member Secretary & Principal)"
+    ],
+    "role": "Apex governing authority determining strategic direction, financial budgets, infrastructure expansion, and statutory compliances of the institute.",
+    "source": "https://www.sbjit.edu.in/governing-body/",
+    "last_verified": "2026-09-07"
+  },
+  "board_of_studies": {
+    "name": "Board of Studies (BoS)",
+    "role": "Constituted for each academic department comprising subject matter experts, university nominees, industry practitioners, and faculty members to formulate dynamic, industry-relevant curriculum.",
+    "source": "https://www.sbjit.edu.in/board-of-studies/",
+    "last_verified": "2026-09-07"
+  },
+  "internal_quality_assurance_cell": {
+    "name": "Internal Quality Assurance Cell (IQAC)",
+    "role": "Develops mechanisms and measures for continuous academic, research, and administrative quality improvement across all institute verticals.",
+    "source": "https://www.sbjit.edu.in/iqac/",
+    "last_verified": "2026-09-07"
+  },
+  "anti_ragging_committee": {
+    "name": "Anti-Ragging Committee and Squad",
+    "role": "Enforces strict Zero Tolerance policy against ragging in accordance with Supreme Court and AICTE mandates. Undertakes regular campus vigilance to ensure a secure environment.",
+    "source": "https://www.sbjit.edu.in/anti-ragging-cell-2/",
+    "last_verified": "2026-09-07"
+  },
+  "internal_complaint_committee": {
+    "name": "Internal Complaint Committee (ICC / Women Development Cell)",
+    "role": "Formed as per the Sexual Harassment of Women at Workplace Act (POSH Act) to prevent gender harassment and ensure a dignified, safe workplace for female students, staff, and faculty.",
+    "source": "https://www.sbjit.edu.in/internal-complaint-committee/",
+    "last_verified": "2026-09-07"
+  },
+  "student_grievance_redressal_cell": {
+    "name": "Student Grievance Redressal Cell (SGRC)",
+    "role": "Addresses student grievances regarding examinations, admissions, facilities, or campus life in an impartial, prompt, and transparent manner.",
+    "source": "https://www.sbjit.edu.in/student-grievance-redressal-cell/",
+    "last_verified": "2026-09-07"
+  },
+  "committee_for_sc_st": {
+    "name": "Committee for SC / ST",
+    "role": "Monitors implementation of affirmative reservation policies, resolves issues faced by SC/ST students and staff, and assists in scholarship execution.",
+    "source": "https://www.sbjit.edu.in/committee-for-sc-st/",
+    "last_verified": "2026-09-07"
+  }
+}

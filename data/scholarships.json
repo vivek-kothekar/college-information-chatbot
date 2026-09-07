@@ -1,0 +1,151 @@
+{
+  "overview": {
+    "description": "SBJITMR actively facilitates numerous Central and State Government scholarships, concession schemes, and institutional memorial scholarships for all eligible categories to ensure affordable education.",
+    "official_portal": "https://mahadbtmahait.gov.in (MahaDBT Portal) & https://scholarship.gov.in (National Scholarship Portal)",
+    "source": "https://www.sbjit.edu.in/student-scholarship/",
+    "last_verified": "2026-09-07"
+  },
+  "government_scholarship_schemes": [
+    {
+      "category": "Scheduled Caste (SC)",
+      "scheme": "Government of India (GOI) Post-Matric Scholarship for SC Students",
+      "income_limit": "Up to ₹2,50,000 per annum",
+      "benefit": "100% Tuition Fee + 100% Development Fee + Exam Fee reimbursed",
+      "where_to_apply": "https://mahadbtmahait.gov.in",
+      "source": "https://www.sbjit.edu.in/student-scholarship/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "category": "Scheduled Caste (SC)",
+      "scheme": "Post-Matric Freeship Scheme",
+      "income_limit": "No Income Limit",
+      "benefit": "100% Tuition Fee + Exam Fee",
+      "where_to_apply": "https://mahadbtmahait.gov.in",
+      "source": "https://www.sbjit.edu.in/student-scholarship/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "category": "Scheduled Caste (SC)",
+      "scheme": "Swadhar Scheme (Dr. Babasaheb Ambedkar Swadhar Yojna)",
+      "income_limit": "Up to ₹2,00,000 per annum",
+      "benefit": "₹60,000 per year for food and lodging allowance",
+      "where_to_apply": "Social Justice and Special Assistance Department (MahaDBT)",
+      "source": "https://www.sbjit.edu.in/student-scholarship/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "category": "Scheduled Tribe (ST)",
+      "scheme": "GOI Post-Matric Scholarship for ST Students",
+      "income_limit": "Up to ₹2,50,000 per annum",
+      "benefit": "100% Tuition Fee + 100% Development Fee + Exam Fee",
+      "where_to_apply": "https://mahadbtmahait.gov.in",
+      "source": "https://www.sbjit.edu.in/student-scholarship/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "category": "Scheduled Tribe (ST)",
+      "scheme": "Swayam Yojna (Pandit Deendayal Upadhyay Swayam Yojna)",
+      "income_limit": "Up to ₹2,00,000 per annum",
+      "benefit": "₹60,000 per year for accommodation & meal support",
+      "where_to_apply": "www.swayam.mahaonline.gov.in",
+      "source": "https://www.sbjit.edu.in/student-scholarship/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "category": "Other Backward Class (OBC)",
+      "scheme": "Post-Matric Scholarship for OBC Students",
+      "income_limit": "Up to ₹1,50,000 per annum",
+      "benefit": "50% Tuition Fee + Exam Fee",
+      "where_to_apply": "https://mahadbtmahait.gov.in",
+      "source": "https://www.sbjit.edu.in/student-scholarship/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "category": "Other Backward Class (OBC)",
+      "scheme": "Post-Matric Tuition Fee Freeship for OBC",
+      "income_limit": "₹1,50,001 to ₹8,00,000 per annum",
+      "benefit": "50% Tuition Fee + Exam Fee",
+      "where_to_apply": "https://mahadbtmahait.gov.in",
+      "source": "https://www.sbjit.edu.in/student-scholarship/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "category": "VJNT & SBC",
+      "scheme": "Post-Matric Scholarship for VJNT & SBC Students",
+      "income_limit": "Up to ₹1,00,000 per annum",
+      "benefit": "100% Tuition Fee + Exam Fee",
+      "where_to_apply": "https://mahadbtmahait.gov.in",
+      "source": "https://www.sbjit.edu.in/student-scholarship/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "category": "VJNT & SBC",
+      "scheme": "Tuition Fee Freeship for VJNT & SBC",
+      "income_limit": "Up to ₹8,00,000 per annum",
+      "benefit": "100% Tuition Fee + Exam Fee",
+      "where_to_apply": "https://mahadbtmahait.gov.in",
+      "source": "https://www.sbjit.edu.in/student-scholarship/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "category": "General / Open (EBC)",
+      "scheme": "Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna (EBC)",
+      "income_limit": "Up to ₹8,00,000 per annum",
+      "benefit": "50% Tuition Fee + 50% Exam Fee concession",
+      "where_to_apply": "https://mahadbtmahait.gov.in",
+      "source": "https://www.sbjit.edu.in/student-scholarship/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "category": "Religious Minority (Muslim, Jain, Sikh, Christian, Parsi, Buddhist)",
+      "scheme": "State & Central Minority Scholarship",
+      "income_limit": "Up to ₹8,00,000 per annum",
+      "benefit": "₹25,000/- per annum for State OR ₹25,000/- per annum for Central",
+      "where_to_apply": "State: https://mahadbtmahait.gov.in | Central: https://scholarship.gov.in",
+      "source": "https://www.sbjit.edu.in/student-scholarship/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "category": "Wards of Primary & Secondary School Teachers",
+      "scheme": "Teacher Wards Fee Concession",
+      "income_limit": "No Income Limit",
+      "benefit": "₹4,300/-",
+      "where_to_apply": "Manual form submission at College Student Section",
+      "source": "https://www.sbjit.edu.in/student-scholarship/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "category": "Meritorious Students (80%+ in 12th Board)",
+      "scheme": "Central Sector Scheme of Scholarship for College and University Students",
+      "income_limit": "Up to ₹8,00,000 per annum",
+      "benefit": "₹10,000/- per year",
+      "where_to_apply": "https://scholarship.gov.in",
+      "source": "https://www.sbjit.edu.in/student-scholarship/",
+      "last_verified": "2026-09-07"
+    },
+    {
+      "category": "Children of Marginal Farmers & Registered Laborers",
+      "scheme": "Dr. Panjabrao Deshmukh Vastigruh Nirvah Bhatta Yojna (Hostel Maintenance)",
+      "income_limit": "Up to ₹8,00,000 per annum",
+      "benefit": "₹30,000 per year for hostel maintenance",
+      "where_to_apply": "https://mahadbtmahait.gov.in",
+      "source": "https://www.sbjit.edu.in/student-scholarship/",
+      "last_verified": "2026-09-07"
+    }
+  ],
+  "institutional_scholarships": {
+    "name": "Sir Shantilal Badjate (SSB) Memorial Scholarship",
+    "description": "Offered by Sir Shantilal Badjate Charitable Trust to support financially deserving and meritorious students studying at SBJITMR.",
+    "application_mode": "Prescribed application form available at the College Administrative Section.",
+    "source": "https://www.sbjit.edu.in/student-scholarship/",
+    "last_verified": "2026-09-07"
+  },
+  "college_scholarship_section_contact": {
+    "office": "Scholarship & Student Section, Ground Floor, Administrative Block, SBJITMR",
+    "incharge": "Mr. Nilesh Gaulkar (Administration / Student Verification)",
+    "phone": "+91-9764508160 / +91 712 2667777",
+    "email": "info@sbjit.edu.in",
+    "source": "https://www.sbjit.edu.in/student-scholarship/",
+    "last_verified": "2026-09-07"
+  }
+}

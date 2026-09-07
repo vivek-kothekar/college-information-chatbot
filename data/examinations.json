@@ -1,0 +1,66 @@
+{
+  "examination_cell": {
+    "name": "Autonomous Examination Cell",
+    "status": "Autonomous Examination Authority of SBJITMR",
+    "controller_of_examinations": {
+      "name": "Prof. Pankaj Jaiswal",
+      "designation": "Controller of Examinations (CoE)",
+      "email": "coesbjain@sbjit.edu.in",
+      "phone": "+91 712 2667777",
+      "office": "Examination Cell, Main Building, SBJITMR Campus"
+    },
+    "source": "https://www.sbjit.edu.in/exam-cell/",
+    "last_verified": "2026-09-07"
+  },
+  "examination_structure": {
+    "system": "Semester Pattern with Choice Based Credit System (CBCS)",
+    "components": [
+      "Continuous Assessment Tests (CAT): Internal continuous evaluation including CAT-I, CAT-II, quizzes, assignments, and mini-projects.",
+      "End Semester Examination (ESE): Comprehensive theory and practical examinations conducted at the end of each semester by the Autonomous Examination Cell."
+    ],
+    "grading_system": "10-Point Grading Scale (O, A+, A, B+, B, C, P, F) resulting in Semester Grade Point Average (SGPA) and Cumulative Grade Point Average (CGPA).",
+    "source": "https://www.sbjit.edu.in/exam-cell/",
+    "last_verified": "2026-09-07"
+  },
+  "cgpa_to_percentage_conversion": {
+    "formula": "Percentage (%) = (CGPA - 0.75) * 10",
+    "alternative_direct_multiplier": "As per RTMNU and autonomous ordinances: Percentage = CGPA * 10 (or as specified in the official Autonomous Grade Card / Examination Manual)",
+    "official_link": "https://www.sbjit.edu.in/exam-cell/cgpa-to-percentage-conversion/",
+    "source": "https://www.sbjit.edu.in/exam-cell/",
+    "last_verified": "2026-09-07"
+  },
+  "revaluation_and_open_day": {
+    "open_day_policy": "SBJITMR conducts an 'Open Day' after valuation where students can physically inspect their evaluated answer scripts in the presence of faculty evaluators to address any valuation discrepancies.",
+    "revaluation_process": "Students not satisfied with evaluated scores can apply for formal revaluation/re-checking through the Exam Cell within the stipulated date following result announcement.",
+    "source": "https://www.sbjit.edu.in/exam-cell/open-day-notices/",
+    "last_verified": "2026-09-07"
+  },
+  "supplementary_and_backlog_exams": {
+    "procedure": "Supplementary / makeup examinations are conducted for students having backlogs in odd or even semesters to help them clear pending subjects without losing an academic year.",
+    "source": "https://www.sbjit.edu.in/exam-cell/",
+    "last_verified": "2026-09-07"
+  },
+  "online_results_portal": {
+    "url": "https://result.sbjit.edu.in/online_results/",
+    "instructions": "Enter your USN and date of birth to view your result/SGPA/CGPA.",
+    "source": "https://result.sbjit.edu.in/online_results/",
+    "last_verified": "2026-09-07"
+  },
+  "online_examination_form_submission": {
+    "procedure": "Exam forms are submitted online: go to the college website, Exam Cell, then Exam Form Registration. For first login, use your USN/PRN as both Login ID and Password, then change the password and log in again. Regular students use Exam Registration to check registered courses; backlog students use Backlog Course Registration to select courses. Check the applicable examination fees, accept the agreement, and pay via UPI/scanner, cards or net banking. After successful payment, download/print the examination form and fee receipt, sign both, and submit them to the respective department. Backlog students must submit a separate examination form for each semester. Forms and fees must be submitted by the notified dates; late and super-late fees apply after the normal deadline, and forms are not accepted after the super-late-fee deadline.",
+    "source": "https://www.sbjit.edu.in/wp-content/uploads/2025/03/ONLINE-EXAMINATION-FORM-SUBMISSION-PROCESS.pdf",
+    "last_verified": "2026-09-07"
+  },
+  "official_links_and_portals": {
+    "online_results_direct": "https://result.sbjit.edu.in/online_results/",
+    "exam_cell_main": "https://www.sbjit.edu.in/exam-cell/",
+    "exam_timetable": "https://www.sbjit.edu.in/exam-cell/exam-time-table/",
+    "exam_results": "https://www.sbjit.edu.in/exam-cell/exam-results/",
+    "exam_form_notices": "https://www.sbjit.edu.in/exam-cell/exam-form-notices/",
+    "exam_form_registration": "https://www.sbjit.edu.in/exam-cell/exam-form-registration/",
+    "revaluation_results": "https://www.sbjit.edu.in/exam-cell/revaluation-result/",
+    "open_day_notices": "https://www.sbjit.edu.in/exam-cell/open-day-notices/",
+    "source": "https://www.sbjit.edu.in/exam-cell/",
+    "last_verified": "2026-09-07"
+  }
+}
