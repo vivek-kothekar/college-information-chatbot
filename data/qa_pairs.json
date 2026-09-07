@@ -465,8 +465,8 @@
       "intake of cse core",
       "intake of cse"
     ],
-    "answer": "The sanctioned intake for the core Computer Science & Engineering (CSE) programme is 240 seats (2026‑27). Official source: https://sbjit.edu.in/direct-second-year-admissions-dsy/",
-    "sources": [{"title": "Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"}]
+    "answer": "The sanctioned intake for Computer Science & Engineering (CSE) is 180 seats. (Official source: SBJITMR Programs Guide — https://www.sbjit.edu.in/programs/)",
+    "sources": [{"title": "Official Programs Guide", "url": "https://www.sbjit.edu.in/programs/"}]
   },
   {
     "id": "intake_cse_aiml",
@@ -477,8 +477,8 @@
       "intake of cse aiml",
       "intake of aiml"
     ],
-    "answer": "The sanctioned intake for the Computer Science & Engineering (Artificial Intelligence & Machine Learning) programme is 120 seats (2026‑27). Official source: https://sbjit.edu.in/direct-second-year-admissions-dsy/",
-    "sources": [{"title": "Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"}]
+    "answer": "The sanctioned intake for CSE (Artificial Intelligence & Machine Learning) is 60/120 seats. (Official source: SBJITMR Programs Guide — https://www.sbjit.edu.in/programs/)",
+    "sources": [{"title": "Official Programs Guide", "url": "https://www.sbjit.edu.in/programs/"}]
   },
   {
     "id": "intake_cse_ds",
@@ -488,8 +488,8 @@
       "intake of data science",
       "intake of cse ds"
     ],
-    "answer": "The sanctioned intake for the Computer Science & Engineering (Data Science) programme is 120 seats (2026‑27). Official source: https://sbjit.edu.in/direct-second-year-admissions-dsy/",
-    "sources": [{"title": "Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"}]
+    "answer": "The sanctioned intake for CSE (Data Science) is 60 seats. (Official source: SBJITMR Programs Guide — https://www.sbjit.edu.in/programs/)",
+    "sources": [{"title": "Official Programs Guide", "url": "https://www.sbjit.edu.in/programs/"}]
   },
   {
     "id": "intake_etc",
@@ -498,8 +498,8 @@
       "What is the intake of ETC?",
       "What is the intake of Electronics & Telecommunication?"
     ],
-    "answer": "The sanctioned intake for the Electronics & Telecommunication Engineering (E&TC) programme is 60 seats (2026‑27). Official source: https://sbjit.edu.in/direct-second-year-admissions-dsy/",
-    "sources": [{"title": "Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"}]
+    "answer": "The sanctioned intake for Electronics & Telecommunication Engineering (E&TC) is 60 seats. (Official source: SBJITMR Programs Guide — https://www.sbjit.edu.in/programs/)",
+    "sources": [{"title": "Official Programs Guide", "url": "https://www.sbjit.edu.in/programs/"}]
   },
   {
     "id": "intake_electrical",
@@ -507,8 +507,8 @@
       "What is the intake of Electrical Engineering at SBJITMR?",
       "What is the intake of Electrical?"
     ],
-    "answer": "The sanctioned intake for the Electrical Engineering programme is 30 seats (2026‑27). Official source: https://sbjit.edu.in/direct-second-year-admissions-dsy/",
-    "sources": [{"title": "Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"}]
+    "answer": "The sanctioned intake for Electrical Engineering is 60 seats. (Official source: SBJITMR Programs Guide — https://www.sbjit.edu.in/programs/)",
+    "sources": [{"title": "Official Programs Guide", "url": "https://www.sbjit.edu.in/programs/"}]
   },
   {
     "id": "intake_mechanical",
@@ -516,8 +516,8 @@
       "What is the intake of Mechanical Engineering at SBJITMR?",
       "What is the intake of Mechanical?"
     ],
-    "answer": "The sanctioned intake for the Mechanical Engineering programme is 30 seats (2026‑27). Official source: https://sbjit.edu.in/direct-second-year-admissions-dsy/",
-    "sources": [{"title": "Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"}]
+    "answer": "The sanctioned intake for Mechanical Engineering is 60 seats. (Official source: SBJITMR Programs Guide — https://www.sbjit.edu.in/programs/)",
+    "sources": [{"title": "Official Programs Guide", "url": "https://www.sbjit.edu.in/programs/"}]
   },
   {
     "id": "intake_first_year",
@@ -525,8 +525,8 @@
       "What is the intake of First Year Engineering at SBJITMR?",
       "What is the intake of First Year?"
     ],
-    "answer": "The sanctioned intake for the First Year Engineering programme is 240 seats (2026‑27). Official source: https://sbjit.edu.in/direct-second-year-admissions-dsy/",
-    "sources": [{"title": "Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"}]
+    "answer": "The First Year Engineering department conducts common foundation coursework for all B.Tech engineering branches. (Official source: https://www.sbjit.edu.in/first-year-engineering/)",
+    "sources": [{"title": "First Year Engineering", "url": "https://www.sbjit.edu.in/first-year-engineering/"}]
   },
   {
     "id": "intake_bca",
@@ -534,8 +534,8 @@
       "What is the intake of BCA at SBJITMR?",
       "What is the intake of BCA?"
     ],
-    "answer": "The sanctioned intake for the Bachelor of Computer Applications (BCA) programme is 120 seats (2026‑27). Official source: https://sbjit.edu.in/direct-second-year-admissions-dsy/",
-    "sources": [{"title": "Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"}]
+    "answer": "Bachelor of Computer Application (BCA) is a 3-year undergraduate applied program under the Department of Computer Applications. (Official source: https://sbjit.edu.in/bca/)",
+    "sources": [{"title": "Official BCA Page", "url": "https://sbjit.edu.in/bca/"}]
   },
   {
     "id": "intake_mca",
@@ -543,8 +543,8 @@
       "What is the intake of MCA at SBJITMR?",
       "What is the intake of MCA?"
     ],
-    "answer": "The sanctioned intake for the Master of Computer Applications (MCA) programme is 24 seats (2026‑27). Official source: https://sbjit.edu.in/direct-second-year-admissions-dsy/",
-    "sources": [{"title": "Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"}]
+    "answer": "Master of Computer Application (MCA) is a 2-year postgraduate program under the Department of Computer Applications. (Official source: https://sbjit.edu.in/bca/)",
+    "sources": [{"title": "Official MCA Page", "url": "https://sbjit.edu.in/bca/"}]
   },
   {
     "id": "intake_mba",
@@ -552,7 +552,7 @@
       "What is the intake of MBA at SBJITMR?",
       "What is the intake of MBA?"
     ],
-    "answer": "The sanctioned intake for the Master of Business Administration (MBA) programme is NOT FOUND on the official page for 2026‑27. The page contains a ‘From The HoD's Desk’ heading but does not publish a specific seat count.",
+    "answer": "The sanctioned intake for the Master of Business Administration (MBA) program is 120 seats (2-Year Full-Time Program). (Official source: SBJITMR MBA — https://www.sbjit.edu.in/mba/)",
     "sources": [{"title": "MBA Department Page", "url": "https://www.sbjit.edu.in/mba/"}]
   },
   {
@@ -561,17 +561,18 @@
       "What is the total B.Tech intake at SBJITMR?",
       "Total B.Tech intake"
     ],
-    "answer": "The total sanctioned intake for all B.Tech programmes is 720 seats (2026‑27). Official source: https://sbjit.edu.in/direct-second-year-admissions-dsy/",
-    "sources": [{"title": "Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"}]
+    "answer": "The approved intake for B.Tech undergraduate engineering programs is:\n- Computer Science & Engineering (CSE): 180\n- CSE (AI & ML): 60/120\n- CSE (Data Science): 60\n- Electrical Engineering: 60\n- Electronics & Telecommunication Engineering: 60\n- Mechanical Engineering: 60\n- Direct Second Year B.Tech (Lateral Entry) for Diploma holders\n(Official source: SBJITMR Programs Guide — https://www.sbjit.edu.in/programs/)",
+    "sources": [{"title": "Official Programs Guide", "url": "https://www.sbjit.edu.in/programs/"}]
   },
   {
     "id": "intake_college_total",
     "questions": [
       "What is the total college intake at SBJITMR?",
-      "Total college intake"
+      "Total college intake",
+      "What are the programs and intake at SBJITMR?"
     ],
-    "answer": "The total sanctioned intake for all programmes (including B.Tech, BCA, MCA, etc.) is 720 seats for B.Tech plus additional seats for other programmes as listed above (2026‑27).",
-    "sources": [{"title": "Direct Second Year Admissions", "url": "https://sbjit.edu.in/direct-second-year-admissions-dsy/"}]
+    "answer": "Undergraduate Programs (B.Tech - 4 Years):\n- Computer Science & Engineering (CSE) (Intake: 180)\n- CSE (Artificial Intelligence & Machine Learning) (Intake: 60/120)\n- CSE (Data Science) (Intake: 60)\n- Electrical Engineering (Intake: 60)\n- Electronics & Telecommunication Engineering (Intake: 60)\n- Mechanical Engineering (Intake: 60)\n- Direct Second Year B.Tech (Lateral Entry) for Diploma holders\n\nUndergraduate Applied & Management Programs:\n- Bachelor of Computer Application (BCA) (3 Years)\n- Bachelor of Business Administration (BBA) (3 Years)\n\nPostgraduate Programs:\n- Master of Business Administration (MBA) (2 Years, Intake: 120)\n- Master of Computer Application (MCA) (2 Years)\n- M.Tech in Computer Science & Engineering (2 Years)\n- M.Tech in Electronics / VLSI (2 Years)\n(Official source: SBJITMR Programs Guide — https://www.sbjit.edu.in/programs/)",
+    "sources": [{"title": "Official Programs Guide", "url": "https://www.sbjit.edu.in/programs/"}]
   },
   {
     "id": "latest_admission_notice",

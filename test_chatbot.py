@@ -192,15 +192,15 @@ class TestSBJITMRChatbot(unittest.TestCase):
 
     def test_new_intake_cse_core(self):
         data = self.ask("What is the intake of CSE (core) at SBJITMR?")
-        self.assertIn("240 seats", data["answer"])
+        self.assertIn("180 seats", data["answer"])
 
     def test_new_intake_cse_aiml(self):
         data = self.ask("What is the intake of CSE (AI & ML) at SBJITMR?")
-        self.assertIn("120 seats", data["answer"])
+        self.assertIn("60/120 seats", data["answer"])
 
     def test_new_intake_cse_ds(self):
         data = self.ask("What is the intake of CSE (Data Science) at SBJITMR?")
-        self.assertIn("120 seats", data["answer"])
+        self.assertIn("60 seats", data["answer"])
 
     def test_new_intake_etc(self):
         data = self.ask("What is the intake of E&TC at SBJITMR?")
@@ -208,35 +208,35 @@ class TestSBJITMRChatbot(unittest.TestCase):
 
     def test_new_intake_electrical(self):
         data = self.ask("What is the intake of Electrical Engineering at SBJITMR?")
-        self.assertIn("30 seats", data["answer"])
+        self.assertIn("60 seats", data["answer"])
 
     def test_new_intake_mechanical(self):
         data = self.ask("What is the intake of Mechanical Engineering at SBJITMR?")
-        self.assertIn("30 seats", data["answer"])
+        self.assertIn("60 seats", data["answer"])
 
     def test_new_intake_first_year(self):
         data = self.ask("What is the intake of First Year Engineering at SBJITMR?")
-        self.assertIn("240 seats", data["answer"])
+        self.assertIn("First Year Engineering", data["answer"])
 
     def test_new_intake_bca(self):
         data = self.ask("What is the intake of BCA at SBJITMR?")
-        self.assertIn("120 seats", data["answer"])
+        self.assertIn("Bachelor of Computer Application", data["answer"])
 
     def test_new_intake_mca(self):
         data = self.ask("What is the intake of MCA at SBJITMR?")
-        self.assertIn("24 seats", data["answer"])
+        self.assertIn("Master of Computer Application", data["answer"])
 
     def test_new_intake_mba(self):
         data = self.ask("What is the intake of MBA at SBJITMR?")
-        self.assertIn("NOT FOUND", data["answer"])
+        self.assertIn("120 seats", data["answer"])
 
     def test_new_intake_btech_total(self):
         data = self.ask("What is the total B.Tech intake at SBJITMR?")
-        self.assertIn("720 seats", data["answer"])
+        self.assertIn("180", data["answer"])
 
     def test_new_intake_college_total(self):
         data = self.ask("What is the total college intake at SBJITMR?")
-        self.assertIn("720 seats", data["answer"])
+        self.assertIn("180", data["answer"])
 
     def test_new_governing_body(self):
         data = self.ask("What is the governing body of SBJITMR?")
