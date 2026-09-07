@@ -189,36 +189,64 @@ document.addEventListener("DOMContentLoaded", () => {
     showTyping(true);
     scrollToBottom();
 
-    try {
-      const response = await fetch("/api/chat", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ message: text, session_id: sessionId })
-      });
+    // Helper for fetch with 1 auto-retry on 502/503/network error
+    async function executeChatRequest(isRetry = false) {
+      try {
+        const response = await fetch("/api/chat", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ message: text, session_id: sessionId })
+        });
 
-      const data = await response.json();
-      showTyping(false);
+        // If Render is starting up (502 / 503 / 504), wait and auto-retry once
+        if ((response.status === 502 || response.status === 503 || response.status === 504) && !isRetry) {
+          console.warn("Render service is spinning up, auto-retrying in 3 seconds...");
+          await new Promise(res => setTimeout(res, 3000));
+          return await executeChatRequest(true);
+        }
 
-      if (response.ok && data.answer) {
-        appendBotMessage(data.answer, data.sources || []);
-      } else {
+        let data = null;
+        try {
+          data = await response.json();
+        } catch (jsonErr) {
+          console.warn("Non-JSON response received:", jsonErr);
+        }
+
+        showTyping(false);
+
+        if (response.ok && data && data.answer) {
+          appendBotMessage(data.answer, data.sources || []);
+        } else if (response.status === 502 || response.status === 503 || response.status === 504) {
+          appendBotMessage(
+            "⏳ **Server is waking up:** On Render's free tier, the application sleeps after inactivity and takes 30–60 seconds to spin up. The server is now warming up—please resend your question in a few seconds!",
+            [{ title: "Official SBJITMR Website", url: "https://www.sbjit.edu.in/" }]
+          );
+        } else {
+          appendBotMessage(
+            (data && data.answer) || "I encountered an issue retrieving the information. Please check the official website at https://www.sbjit.edu.in/",
+            (data && data.sources) || [{ title: "Official SBJITMR Website", url: "https://www.sbjit.edu.in/" }]
+          );
+        }
+      } catch (error) {
+        console.error("Chat error:", error);
+        if (!isRetry) {
+          console.warn("Network glitch, auto-retrying once in 2 seconds...");
+          await new Promise(res => setTimeout(res, 2000));
+          return await executeChatRequest(true);
+        }
+        showTyping(false);
         appendBotMessage(
-          data.answer || "I encountered an issue retrieving the information. Please check the official website at https://www.sbjit.edu.in/",
-          data.sources || []
+          "⏳ **Server Connection Notice:** The backend service may still be spinning up from its initial deployment or free-tier sleep. Please refresh the page or try your question again in 15 seconds.",
+          [{ title: "Official SBJITMR Website", url: "https://www.sbjit.edu.in/" }]
         );
+      } finally {
+        sendBtn.disabled = false;
+        chatInput.focus();
+        scrollToBottom();
       }
-    } catch (error) {
-      console.error("Chat error:", error);
-      showTyping(false);
-      appendBotMessage(
-        "Network connection error. Please ensure the backend server is running and try again, or visit [https://www.sbjit.edu.in/](https://www.sbjit.edu.in/).",
-        [{ title: "Official SBJITMR Website", url: "https://www.sbjit.edu.in/" }]
-      );
-    } finally {
-      sendBtn.disabled = false;
-      chatInput.focus();
-      scrollToBottom();
     }
+
+    await executeChatRequest();
   }
 
   // Append User Bubble

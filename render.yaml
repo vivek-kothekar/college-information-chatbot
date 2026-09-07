@@ -3,7 +3,7 @@ services:
     name: college-information-chatbot
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn app:app
+    startCommand: gunicorn app:app --timeout 120 --workers 2
     envVars:
       - key: GEMINI_API_KEY
         sync: false
