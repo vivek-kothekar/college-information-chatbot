@@ -50,3 +50,10 @@ Thumbs.db
 .coverage
 htmlcov/
 .pytest_cache/
+
+# Private Academic Reports
+*Report*.docx
+*Report*.md
+SBJITMR_NLP_Project_Report.*
+generate_docx.py
+
